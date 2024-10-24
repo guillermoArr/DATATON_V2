@@ -10,4 +10,4 @@ Ten en cuenta que el objetivo principal de las tiendas afiliadas es Incluir al m
 Puedes elegir hacer este análisis para uno de los tres grupos de tiendas afiliadas a la ANTAD, o hacer una recomendación general para todas las empresas afiliadas.
 
  ### Presentación
- ()[Haga click para acceder al link del Canva]
+ [Haga click para acceder al link del Canva](insertar link)
