@@ -18,6 +18,9 @@ library(MASS)
 library(stargazer)
 library(estimatr)
 library(broom)
+library(fixest)
+library(ggstats)
+library(ggdark)
 
 data <- read.csv("../data/tr_endutih_usuarios_anual_2023.csv", header = T)
 ```
@@ -196,11 +199,73 @@ summary(log_ent)
 
 #### Variables descriptivas
 ```{r LOGIT sin entidades}
+colnames(reg_desc)[which(names(reg_desc) == "P7_3")] <- "Freq_Int"
 log_desc <- glm(P7_21 ~ ., 
                   data = reg_desc, 
                   family = binomial(link = "logit"))
 summary(log_desc)
 ```
+
+```{r}
+coefs <- summary(log_desc)
+coefs$coefficients[,c(1,2)] <- coefs$coefficients[,c(1,2)]*100
+coefs$coefficients <- coefs$coefficients[c(2,3,12,17,18,20,21,22,41,38),]
+fixest::coefplot(coefs, horiz = T, 
+                 dict = c(Freq_Int2="Frecuencia de uso de Internet", P7_73 = "Uso por 2-5 años", 
+                          P7_74 = "Uso por 5 o más años", P7_16_1 = "Facebook", 
+                          P7_16_2 = "Twitter", P7_16_3 = "Instagram", P7_16_0 = "Sin redes sociales", P7_19 = "Ventas por Internet"),
+                 col = "white",
+                 zero.par = list(col = "#f2545b"),
+                 ci.lwd = 1.5,
+                 bg = "black",
+                 main = "Estimación de efectos sobre compras en línea",
+                 value.lab = "Estimación e intervalos de confianza del 95%"
+                 )
+
+```
+```{r}
+prueba <- ggcoef_model(log_desc, include = c("EDAD", "RURAL", "Freq_Int", "P7_7",
+                                   "P7_16_1", "P7_16_2", "P7_16_3", "P7_16_0", "P7_19"),
+             variable_labels = list(EDAD = "Edad", RURAL = "Rural", Freq_Int = "Frec. Internet", 
+                                    P7_7 = "Inicio en Internet",
+                                    P7_16_1 = "FB", P7_16_2 = "Twitter", P7_16_3 = "IG", 
+                                    P7_16_0 = "Sin red social", P7_19 = "Ventas por Internet"),
+             facet_row = NULL,
+             show_p_values = F,
+             significance = NULL,
+             colour_labels="white",
+             errorbar_coloured = T,
+             add_reference_rows = FALSE,
+             vline_colour = "#f2545b",
+             stripped_rows = F,
+             colour_guide = T,
+             point_size = 1,
+             point_stroke = 0.8
+             )+
+  ggplot2::scale_color_brewer(palette = "Set1") + 
+  ggplot2::xlab("Coeficientes")+
+  ggplot2::ggtitle("Estimación de efectos sobre compras en línea")+
+  ggplot2::theme(
+    plot.title = element_text(hjust = 0.5, size = 10.5, face = "bold", color = "white"),
+    
+    axis.title = element_text(color = "white"),
+    axis.text = element_text(color = "white"),
+    axis.title.x = element_text(margin = margin(t = 20)),
+    
+    plot.background = element_rect(fill = "black"),
+    panel.background = element_rect(fill = "black"),
+    text = element_text(color = "white"),
+    panel.grid = element_line(color = "white"),
+    strip.text = element_text(color = "white"),
+    strip.text.y = element_text(angle = 0),
+    legend.text = element_text(size = 9 )
+  )
+
+prueba + dark_theme_gray()
+
+```
+
+
 #### Modelo extra de curiosidad por búsquedas en internet
 ```{r Busquedas internet}
 
