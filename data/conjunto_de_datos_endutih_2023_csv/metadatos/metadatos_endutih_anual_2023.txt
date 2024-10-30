@@ -1,0 +1,30 @@
+identifier: MEX-INEGI.EEC3.04-ENDUTIH-2023
+
+title: Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) cifras al 2023
+
+description: La Encuesta Nacional sobre Disponibilidad y Uso de las Tecnologías de la Información en los Hogares (ENDUTIH) 2023 es un proyecto estadístico destinado a investigar en qué medida y a través de cuáles medios la población tiene acceso y hace uso de las tecnologías de la información y comunicación.
+Los datos que proporciona, permite al Instituto Federal de Telecomunicaciones (IFT) realizar análisis para establecer políticas públicas, ya que la encuesta genera información estadística y así posibilita el conocer la disponibilidad y el uso de las tecnologías de la información y las comunicaciones en el hogar, por las personas de seis años o más a nivel nacional, nacional urbano-rural, por estrato socioeconómico y por entidad federativa y conocer las condiciones que restringen dicha disponibilidad y establecer el volumen de usuarios.
+Para la selección de la muestra se utilizó la Muestra Maestra, también conocida como el Marco Nacional de Viviendas 2012 del INEGI, este último construido a partir de la información cartográfica y demográfica que se obtuvo del Censo de Población y Vivienda 2010. Su diseño es probabilístico, estratificado, unietápico y por conglomerados; estos últimos también se consideran Unidades Primarias de Muestreo (UPM), pues es en ellos donde se seleccionan, en una segunda etapa, las viviendas que integran las muestras de las diferentes encuestas
+
+modified: 2024-06-13
+
+publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+mbox: atencion.usuarios@inegi.org.mx
+
+license: https://www.inegi.org.mx/inegi/terminos.html
+
+datadictionary: https://www.inegi.org.mx/rnm/index.php/catalog/989/data-dictionary
+
+keyword: "hogares", "usuarios", "computadora", "internet", "televisión", "telefonía", "telefonía móvil", "aplicaciones", "transacciones electrónicas"   
+
+contactpoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+temporal: 2023
+
+spatial: Estados Unidos Mexicanos
+
+accrualperiodicity: Anualmente
+
+distribution: https://www.inegi.org.mx/programas/endutih/2023/
+
