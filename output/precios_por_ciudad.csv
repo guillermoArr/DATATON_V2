@@ -1,0 +1,936 @@
+﻿Clave ciudad,Nombre ciudad,División,Grupo,Precio promedio
+1,Área Met. de la Cd. de México,"1. Alimentos, bebidas y tabaco",1.1. Alimentos,116.97756561430202
+1,Área Met. de la Cd. de México,"1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,399.0111206896552
+1,Área Met. de la Cd. de México,"2. Ropa, calzado y accesorios",2.1. Ropa,576.7021491228071
+1,Área Met. de la Cd. de México,"2. Ropa, calzado y accesorios",2.2. Calzado,686.8600943396226
+1,Área Met. de la Cd. de México,"2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1498.0082352941176
+1,Área Met. de la Cd. de México,3. Vivienda,3.1. Costo de uso de vivienda,634.08
+1,Área Met. de la Cd. de México,3. Vivienda,3.2. Electricidad y combustibles,4834.306037735849
+1,Área Met. de la Cd. de México,3. Vivienda,3.3. Otros servicios relacionados con la vivienda,662.9949438202248
+1,Área Met. de la Cd. de México,"4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,7208.274427710843
+1,Área Met. de la Cd. de México,"4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,384.78388020833336
+1,Área Met. de la Cd. de México,5. Salud y cuidado personal,5.1. Salud,1843.0419210526313
+1,Área Met. de la Cd. de México,5. Salud y cuidado personal,5.2. Cuidado personal,243.50262443438916
+1,Área Met. de la Cd. de México,6. Transporte,6.1. Transporte público,1359.14609375
+1,Área Met. de la Cd. de México,6. Transporte,6.2. Transporte por cuenta propia,129177.95722602739
+1,Área Met. de la Cd. de México,7. Educación y esparcimiento,7.1. Educación,3971.209066666667
+1,Área Met. de la Cd. de México,7. Educación y esparcimiento,7.2. Esparcimiento,2519.163900862069
+1,Área Met. de la Cd. de México,8. Otros servicios,8.1. Otros servicios,1546.3430808080807
+2,"Mérida, Yuc.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,111.49281045751633
+2,"Mérida, Yuc.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,248.03875
+2,"Mérida, Yuc.","2. Ropa, calzado y accesorios",2.1. Ropa,458.2008173076923
+2,"Mérida, Yuc.","2. Ropa, calzado y accesorios",2.2. Calzado,645.6322727272727
+2,"Mérida, Yuc.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1199.2341666666666
+2,"Mérida, Yuc.",3. Vivienda,3.1. Costo de uso de vivienda,363.1333333333334
+2,"Mérida, Yuc.",3. Vivienda,3.2. Electricidad y combustibles,9459.784166666666
+2,"Mérida, Yuc.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,479.9889473684211
+2,"Mérida, Yuc.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6556.68265060241
+2,"Mérida, Yuc.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,470.02000000000004
+2,"Mérida, Yuc.",5. Salud y cuidado personal,5.1. Salud,1903.1375694444444
+2,"Mérida, Yuc.",5. Salud y cuidado personal,5.2. Cuidado personal,176.16208333333336
+2,"Mérida, Yuc.",6. Transporte,6.1. Transporte público,1471.2934615384615
+2,"Mérida, Yuc.",6. Transporte,6.2. Transporte por cuenta propia,92890.36858585858
+2,"Mérida, Yuc.",7. Educación y esparcimiento,7.1. Educación,3392.31765625
+2,"Mérida, Yuc.",7. Educación y esparcimiento,7.2. Esparcimiento,2813.416083916084
+2,"Mérida, Yuc.",8. Otros servicios,8.1. Otros servicios,762.0041176470588
+3,"Morelia, Mich.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,114.92604139715395
+3,"Morelia, Mich.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,322.3130612244898
+3,"Morelia, Mich.","2. Ropa, calzado y accesorios",2.1. Ropa,424.37416666666667
+3,"Morelia, Mich.","2. Ropa, calzado y accesorios",2.2. Calzado,672.4447619047619
+3,"Morelia, Mich.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,637.6142857142858
+3,"Morelia, Mich.",3. Vivienda,3.1. Costo de uso de vivienda,896.7653846153846
+3,"Morelia, Mich.",3. Vivienda,3.2. Electricidad y combustibles,9849.05125
+3,"Morelia, Mich.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1674.471052631579
+3,"Morelia, Mich.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5098.777086614173
+3,"Morelia, Mich.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,431.20939189189187
+3,"Morelia, Mich.",5. Salud y cuidado personal,5.1. Salud,2355.022410714286
+3,"Morelia, Mich.",5. Salud y cuidado personal,5.2. Cuidado personal,149.6029761904762
+3,"Morelia, Mich.",6. Transporte,6.1. Transporte público,782.2395833333334
+3,"Morelia, Mich.",6. Transporte,6.2. Transporte por cuenta propia,95063.90345679013
+3,"Morelia, Mich.",7. Educación y esparcimiento,7.1. Educación,2192.777777777778
+3,"Morelia, Mich.",7. Educación y esparcimiento,7.2. Esparcimiento,1695.89352
+3,"Morelia, Mich.",8. Otros servicios,8.1. Otros servicios,2511.700588235294
+4,"Guadalajara, Jal.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,121.43914425427872
+4,"Guadalajara, Jal.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,354.2245161290323
+4,"Guadalajara, Jal.","2. Ropa, calzado y accesorios",2.1. Ropa,599.5450000000001
+4,"Guadalajara, Jal.","2. Ropa, calzado y accesorios",2.2. Calzado,686.0197674418604
+4,"Guadalajara, Jal.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1252.7026829268293
+4,"Guadalajara, Jal.",3. Vivienda,3.1. Costo de uso de vivienda,938.619375
+4,"Guadalajara, Jal.",3. Vivienda,3.2. Electricidad y combustibles,8926.713962264152
+4,"Guadalajara, Jal.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,669.465
+4,"Guadalajara, Jal.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5404.336666666667
+4,"Guadalajara, Jal.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,581.1680208333333
+4,"Guadalajara, Jal.",5. Salud y cuidado personal,5.1. Salud,1892.2474342105263
+4,"Guadalajara, Jal.",5. Salud y cuidado personal,5.2. Cuidado personal,163.0635135135135
+4,"Guadalajara, Jal.",6. Transporte,6.1. Transporte público,752.8929545454546
+4,"Guadalajara, Jal.",6. Transporte,6.2. Transporte por cuenta propia,105280.78
+4,"Guadalajara, Jal.",7. Educación y esparcimiento,7.1. Educación,2801.152210526316
+4,"Guadalajara, Jal.",7. Educación y esparcimiento,7.2. Esparcimiento,3012.2392523364483
+4,"Guadalajara, Jal.",8. Otros servicios,8.1. Otros servicios,1996.6610606060606
+5,"Monterrey, N.L.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,121.22370953630796
+5,"Monterrey, N.L.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,355.399552238806
+5,"Monterrey, N.L.","2. Ropa, calzado y accesorios",2.1. Ropa,521.50753125
+5,"Monterrey, N.L.","2. Ropa, calzado y accesorios",2.2. Calzado,741.3958181818181
+5,"Monterrey, N.L.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1137.7501818181818
+5,"Monterrey, N.L.",3. Vivienda,3.1. Costo de uso de vivienda,584.861
+5,"Monterrey, N.L.",3. Vivienda,3.2. Electricidad y combustibles,7855.949649122807
+5,"Monterrey, N.L.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,534.3241666666667
+5,"Monterrey, N.L.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6358.33359090909
+5,"Monterrey, N.L.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,584.5788205128205
+5,"Monterrey, N.L.",5. Salud y cuidado personal,5.1. Salud,2096.1044117647057
+5,"Monterrey, N.L.",5. Salud y cuidado personal,5.2. Cuidado personal,216.44311320754719
+5,"Monterrey, N.L.",6. Transporte,6.1. Transporte público,1025.265925925926
+5,"Monterrey, N.L.",6. Transporte,6.2. Transporte por cuenta propia,126506.81419354839
+5,"Monterrey, N.L.",7. Educación y esparcimiento,7.1. Educación,2530.628064516129
+5,"Monterrey, N.L.",7. Educación y esparcimiento,7.2. Esparcimiento,2832.78538071066
+5,"Monterrey, N.L.",8. Otros servicios,8.1. Otros servicios,1858.664
+6,"Mexicali, B.C.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,122.4392686002522
+6,"Mexicali, B.C.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,288.7694285714286
+6,"Mexicali, B.C.","2. Ropa, calzado y accesorios",2.1. Ropa,404.62618497109827
+6,"Mexicali, B.C.","2. Ropa, calzado y accesorios",2.2. Calzado,593.5851351351351
+6,"Mexicali, B.C.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1804.1540625
+6,"Mexicali, B.C.",3. Vivienda,3.1. Costo de uso de vivienda,1162.5914285714287
+6,"Mexicali, B.C.",3. Vivienda,3.2. Electricidad y combustibles,7891.725957446808
+6,"Mexicali, B.C.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1048.65125
+6,"Mexicali, B.C.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6646.569473684211
+6,"Mexicali, B.C.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,454.1802083333333
+6,"Mexicali, B.C.",5. Salud y cuidado personal,5.1. Salud,2226.2457377049177
+6,"Mexicali, B.C.",5. Salud y cuidado personal,5.2. Cuidado personal,225.59526315789475
+6,"Mexicali, B.C.",6. Transporte,6.1. Transporte público,1072.925
+6,"Mexicali, B.C.",6. Transporte,6.2. Transporte por cuenta propia,101149.65428571428
+6,"Mexicali, B.C.",7. Educación y esparcimiento,7.1. Educación,2188.531746031746
+6,"Mexicali, B.C.",7. Educación y esparcimiento,7.2. Esparcimiento,3350.0073015873013
+6,"Mexicali, B.C.",8. Otros servicios,8.1. Otros servicios,2077.1963636363635
+7,"Cd. Juárez, Chih.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,121.94409090909092
+7,"Cd. Juárez, Chih.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,233.16735294117646
+7,"Cd. Juárez, Chih.","2. Ropa, calzado y accesorios",2.1. Ropa,391.7724
+7,"Cd. Juárez, Chih.","2. Ropa, calzado y accesorios",2.2. Calzado,572.6073529411765
+7,"Cd. Juárez, Chih.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,641.0233333333333
+7,"Cd. Juárez, Chih.",3. Vivienda,3.1. Costo de uso de vivienda,651.680909090909
+7,"Cd. Juárez, Chih.",3. Vivienda,3.2. Electricidad y combustibles,8689.038085106382
+7,"Cd. Juárez, Chih.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,629.9977777777777
+7,"Cd. Juárez, Chih.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5436.175803571428
+7,"Cd. Juárez, Chih.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,362.6079487179487
+7,"Cd. Juárez, Chih.",5. Salud y cuidado personal,5.1. Salud,3070.557652173913
+7,"Cd. Juárez, Chih.",5. Salud y cuidado personal,5.2. Cuidado personal,138.724
+7,"Cd. Juárez, Chih.",6. Transporte,6.1. Transporte público,1094.625
+7,"Cd. Juárez, Chih.",6. Transporte,6.2. Transporte por cuenta propia,83357.17636363636
+7,"Cd. Juárez, Chih.",7. Educación y esparcimiento,7.1. Educación,2217.2126865671644
+7,"Cd. Juárez, Chih.",7. Educación y esparcimiento,7.2. Esparcimiento,1980.6766086956522
+7,"Cd. Juárez, Chih.",8. Otros servicios,8.1. Otros servicios,2015.696603773585
+8,"Acapulco, Gro.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,124.5259911894273
+8,"Acapulco, Gro.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,300.6142857142857
+8,"Acapulco, Gro.","2. Ropa, calzado y accesorios",2.1. Ropa,417.21371727748686
+8,"Acapulco, Gro.","2. Ropa, calzado y accesorios",2.2. Calzado,447.89212121212125
+8,"Acapulco, Gro.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1597.148148148148
+8,"Acapulco, Gro.",3. Vivienda,3.1. Costo de uso de vivienda,285.75363636363636
+8,"Acapulco, Gro.",3. Vivienda,3.2. Electricidad y combustibles,9761.715833333334
+8,"Acapulco, Gro.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,842.3463157894737
+8,"Acapulco, Gro.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,7210.015327102804
+8,"Acapulco, Gro.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,321.61157142857144
+8,"Acapulco, Gro.",5. Salud y cuidado personal,5.1. Salud,998.743305785124
+8,"Acapulco, Gro.",5. Salud y cuidado personal,5.2. Cuidado personal,183.97641025641025
+8,"Acapulco, Gro.",6. Transporte,6.1. Transporte público,2218.715909090909
+8,"Acapulco, Gro.",6. Transporte,6.2. Transporte por cuenta propia,128268.66632352943
+8,"Acapulco, Gro.",7. Educación y esparcimiento,7.1. Educación,3163.2362962962966
+8,"Acapulco, Gro.",7. Educación y esparcimiento,7.2. Esparcimiento,1702.2784684684684
+8,"Acapulco, Gro.",8. Otros servicios,8.1. Otros servicios,3080.9018604651164
+9,"Culiacán, Sin.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,120.21607567567567
+9,"Culiacán, Sin.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,291.96224137931034
+9,"Culiacán, Sin.","2. Ropa, calzado y accesorios",2.1. Ropa,385.3796265560166
+9,"Culiacán, Sin.","2. Ropa, calzado y accesorios",2.2. Calzado,589.5894444444444
+9,"Culiacán, Sin.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1241.393953488372
+9,"Culiacán, Sin.",3. Vivienda,3.1. Costo de uso de vivienda,539.5707692307692
+9,"Culiacán, Sin.",3. Vivienda,3.2. Electricidad y combustibles,8358.763913043478
+9,"Culiacán, Sin.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,2402.011111111111
+9,"Culiacán, Sin.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5784.593154761905
+9,"Culiacán, Sin.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,538.569496855346
+9,"Culiacán, Sin.",5. Salud y cuidado personal,5.1. Salud,2234.525923566879
+9,"Culiacán, Sin.",5. Salud y cuidado personal,5.2. Cuidado personal,199.24581632653062
+9,"Culiacán, Sin.",6. Transporte,6.1. Transporte público,735.3145833333333
+9,"Culiacán, Sin.",6. Transporte,6.2. Transporte por cuenta propia,87471.62212121212
+9,"Culiacán, Sin.",7. Educación y esparcimiento,7.1. Educación,2930.8013235294115
+9,"Culiacán, Sin.",7. Educación y esparcimiento,7.2. Esparcimiento,1912.8408843537413
+9,"Culiacán, Sin.",8. Otros servicios,8.1. Otros servicios,1844.7566666666667
+10,"León, Gto.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,113.1151331967213
+10,"León, Gto.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,327.23333333333335
+10,"León, Gto.","2. Ropa, calzado y accesorios",2.1. Ropa,534.2355670103093
+10,"León, Gto.","2. Ropa, calzado y accesorios",2.2. Calzado,667.7709375
+10,"León, Gto.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,632.4131818181818
+10,"León, Gto.",3. Vivienda,3.1. Costo de uso de vivienda,864.5375
+10,"León, Gto.",3. Vivienda,3.2. Electricidad y combustibles,9275.96882352941
+10,"León, Gto.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,739.9247368421053
+10,"León, Gto.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6358.526616541354
+10,"León, Gto.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,352.87166666666667
+10,"León, Gto.",5. Salud y cuidado personal,5.1. Salud,2038.8382786885247
+10,"León, Gto.",5. Salud y cuidado personal,5.2. Cuidado personal,200.9415909090909
+10,"León, Gto.",6. Transporte,6.1. Transporte público,903.3295454545455
+10,"León, Gto.",6. Transporte,6.2. Transporte por cuenta propia,68202.66806451613
+10,"León, Gto.",7. Educación y esparcimiento,7.1. Educación,1899.4407462686568
+10,"León, Gto.",7. Educación y esparcimiento,7.2. Esparcimiento,1192.6022580645163
+10,"León, Gto.",8. Otros servicios,8.1. Otros servicios,1713.4920689655173
+11,"Puebla, Pue.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,103.29247004608295
+11,"Puebla, Pue.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,334.8321153846154
+11,"Puebla, Pue.","2. Ropa, calzado y accesorios",2.1. Ropa,551.4294699646643
+11,"Puebla, Pue.","2. Ropa, calzado y accesorios",2.2. Calzado,633.71875
+11,"Puebla, Pue.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1037.4031578947368
+11,"Puebla, Pue.",3. Vivienda,3.1. Costo de uso de vivienda,827.6773333333333
+11,"Puebla, Pue.",3. Vivienda,3.2. Electricidad y combustibles,8926.595283018867
+11,"Puebla, Pue.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,435.40629629629626
+11,"Puebla, Pue.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,7337.456597222223
+11,"Puebla, Pue.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,392.45875000000007
+11,"Puebla, Pue.",5. Salud y cuidado personal,5.1. Salud,1581.1064197530864
+11,"Puebla, Pue.",5. Salud y cuidado personal,5.2. Cuidado personal,240.04807692307693
+11,"Puebla, Pue.",6. Transporte,6.1. Transporte público,1282.6872972972974
+11,"Puebla, Pue.",6. Transporte,6.2. Transporte por cuenta propia,120496.54199999999
+11,"Puebla, Pue.",7. Educación y esparcimiento,7.1. Educación,4194.42376344086
+11,"Puebla, Pue.",7. Educación y esparcimiento,7.2. Esparcimiento,1586.3599415204678
+11,"Puebla, Pue.",8. Otros servicios,8.1. Otros servicios,2497.341304347826
+12,"San Luis Potosí, S.L.P.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,118.52099378881988
+12,"San Luis Potosí, S.L.P.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,461.19576923076926
+12,"San Luis Potosí, S.L.P.","2. Ropa, calzado y accesorios",2.1. Ropa,445.6115859030837
+12,"San Luis Potosí, S.L.P.","2. Ropa, calzado y accesorios",2.2. Calzado,622.4802325581396
+12,"San Luis Potosí, S.L.P.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,745.0211363636364
+12,"San Luis Potosí, S.L.P.",3. Vivienda,3.1. Costo de uso de vivienda,671.3727272727273
+12,"San Luis Potosí, S.L.P.",3. Vivienda,3.2. Electricidad y combustibles,9654.10612244898
+12,"San Luis Potosí, S.L.P.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,500.6473684210526
+12,"San Luis Potosí, S.L.P.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,7067.8142603550305
+12,"San Luis Potosí, S.L.P.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,296.1244615384615
+12,"San Luis Potosí, S.L.P.",5. Salud y cuidado personal,5.1. Salud,1216.1201324503313
+12,"San Luis Potosí, S.L.P.",5. Salud y cuidado personal,5.2. Cuidado personal,164.11333333333334
+12,"San Luis Potosí, S.L.P.",6. Transporte,6.1. Transporte público,1036.616
+12,"San Luis Potosí, S.L.P.",6. Transporte,6.2. Transporte por cuenta propia,88036.35290322581
+12,"San Luis Potosí, S.L.P.",7. Educación y esparcimiento,7.1. Educación,2142.0079365079364
+12,"San Luis Potosí, S.L.P.",7. Educación y esparcimiento,7.2. Esparcimiento,1400.5634883720932
+12,"San Luis Potosí, S.L.P.",8. Otros servicios,8.1. Otros servicios,1490.6192727272726
+13,"Tapachula, Chis.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,107.96035555555557
+13,"Tapachula, Chis.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,322.4123529411765
+13,"Tapachula, Chis.","2. Ropa, calzado y accesorios",2.1. Ropa,344.7238502673797
+13,"Tapachula, Chis.","2. Ropa, calzado y accesorios",2.2. Calzado,530.1775609756097
+13,"Tapachula, Chis.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,775.15
+13,"Tapachula, Chis.",3. Vivienda,3.1. Costo de uso de vivienda,200.42
+13,"Tapachula, Chis.",3. Vivienda,3.2. Electricidad y combustibles,9606.71590909091
+13,"Tapachula, Chis.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,673.1105263157895
+13,"Tapachula, Chis.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6120.230608695652
+13,"Tapachula, Chis.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,318.7678358208955
+13,"Tapachula, Chis.",5. Salud y cuidado personal,5.1. Salud,1682.4466141732285
+13,"Tapachula, Chis.",5. Salud y cuidado personal,5.2. Cuidado personal,203.9025925925926
+13,"Tapachula, Chis.",6. Transporte,6.1. Transporte público,669.9021739130435
+13,"Tapachula, Chis.",6. Transporte,6.2. Transporte por cuenta propia,106409.44104477612
+13,"Tapachula, Chis.",7. Educación y esparcimiento,7.1. Educación,2293.5673333333334
+13,"Tapachula, Chis.",7. Educación y esparcimiento,7.2. Esparcimiento,1562.6333980582524
+13,"Tapachula, Chis.",8. Otros servicios,8.1. Otros servicios,1990.2045454545455
+14,"Toluca, Edo. de Méx.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,127.58478561549101
+14,"Toluca, Edo. de Méx.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,317.72024999999996
+14,"Toluca, Edo. de Méx.","2. Ropa, calzado y accesorios",2.1. Ropa,470.4600892857143
+14,"Toluca, Edo. de Méx.","2. Ropa, calzado y accesorios",2.2. Calzado,680.2728301886792
+14,"Toluca, Edo. de Méx.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,368.4775
+14,"Toluca, Edo. de Méx.",3. Vivienda,3.1. Costo de uso de vivienda,1322.638181818182
+14,"Toluca, Edo. de Méx.",3. Vivienda,3.2. Electricidad y combustibles,10065.057021276596
+14,"Toluca, Edo. de Méx.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,404.02555555555557
+14,"Toluca, Edo. de Méx.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5764.8213076923075
+14,"Toluca, Edo. de Méx.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,309.7463120567376
+14,"Toluca, Edo. de Méx.",5. Salud y cuidado personal,5.1. Salud,1724.7206716417911
+14,"Toluca, Edo. de Méx.",5. Salud y cuidado personal,5.2. Cuidado personal,180.42115384615386
+14,"Toluca, Edo. de Méx.",6. Transporte,6.1. Transporte público,587.6772
+14,"Toluca, Edo. de Méx.",6. Transporte,6.2. Transporte por cuenta propia,79173.36575757575
+14,"Toluca, Edo. de Méx.",7. Educación y esparcimiento,7.1. Educación,2645.484193548387
+14,"Toluca, Edo. de Méx.",7. Educación y esparcimiento,7.2. Esparcimiento,1251.538606557377
+14,"Toluca, Edo. de Méx.",8. Otros servicios,8.1. Otros servicios,1983.6566666666668
+15,"Torreón, Coah.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,121.8669683908046
+15,"Torreón, Coah.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,316.4236111111111
+15,"Torreón, Coah.","2. Ropa, calzado y accesorios",2.1. Ropa,410.71023391812867
+15,"Torreón, Coah.","2. Ropa, calzado y accesorios",2.2. Calzado,792.0994594594595
+15,"Torreón, Coah.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1102.988918918919
+15,"Torreón, Coah.",3. Vivienda,3.1. Costo de uso de vivienda,271.52454545454543
+15,"Torreón, Coah.",3. Vivienda,3.2. Electricidad y combustibles,9139.221632653062
+15,"Torreón, Coah.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,300.0758064516129
+15,"Torreón, Coah.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5005.793893805309
+15,"Torreón, Coah.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,390.3383431952663
+15,"Torreón, Coah.",5. Salud y cuidado personal,5.1. Salud,1907.15904
+15,"Torreón, Coah.",5. Salud y cuidado personal,5.2. Cuidado personal,244.59741176470587
+15,"Torreón, Coah.",6. Transporte,6.1. Transporte público,1185.1727586206898
+15,"Torreón, Coah.",6. Transporte,6.2. Transporte por cuenta propia,61388.942959183674
+15,"Torreón, Coah.",7. Educación y esparcimiento,7.1. Educación,3354.515409836066
+15,"Torreón, Coah.",7. Educación y esparcimiento,7.2. Esparcimiento,1304.9245967741936
+15,"Torreón, Coah.",8. Otros servicios,8.1. Otros servicios,1394.0483673469387
+16,"Veracruz, Ver.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,111.1337170596394
+16,"Veracruz, Ver.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,356.50179487179486
+16,"Veracruz, Ver.","2. Ropa, calzado y accesorios",2.1. Ropa,351.52621890547266
+16,"Veracruz, Ver.","2. Ropa, calzado y accesorios",2.2. Calzado,532.0608108108108
+16,"Veracruz, Ver.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1131.916551724138
+16,"Veracruz, Ver.",3. Vivienda,3.1. Costo de uso de vivienda,638.9923076923077
+16,"Veracruz, Ver.",3. Vivienda,3.2. Electricidad y combustibles,9459.669166666667
+16,"Veracruz, Ver.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,336.1061111111111
+16,"Veracruz, Ver.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,7356.3413513513515
+16,"Veracruz, Ver.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,289.9424460431655
+16,"Veracruz, Ver.",5. Salud y cuidado personal,5.1. Salud,2453.0438260869564
+16,"Veracruz, Ver.",5. Salud y cuidado personal,5.2. Cuidado personal,199.53837837837838
+16,"Veracruz, Ver.",6. Transporte,6.1. Transporte público,2123.791818181818
+16,"Veracruz, Ver.",6. Transporte,6.2. Transporte por cuenta propia,99072.21418918918
+16,"Veracruz, Ver.",7. Educación y esparcimiento,7.1. Educación,2586.028387096774
+16,"Veracruz, Ver.",7. Educación y esparcimiento,7.2. Esparcimiento,2017.376090225564
+16,"Veracruz, Ver.",8. Otros servicios,8.1. Otros servicios,1927.7573913043477
+17,"Villahermosa, Tab.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,120.56028895768834
+17,"Villahermosa, Tab.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,336.21675
+17,"Villahermosa, Tab.","2. Ropa, calzado y accesorios",2.1. Ropa,378.15191666666664
+17,"Villahermosa, Tab.","2. Ropa, calzado y accesorios",2.2. Calzado,502.9273684210527
+17,"Villahermosa, Tab.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,900.8669444444445
+17,"Villahermosa, Tab.",3. Vivienda,3.1. Costo de uso de vivienda,248.57416666666666
+17,"Villahermosa, Tab.",3. Vivienda,3.2. Electricidad y combustibles,8099.063191489362
+17,"Villahermosa, Tab.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,571.3482608695653
+17,"Villahermosa, Tab.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6083.307037037037
+17,"Villahermosa, Tab.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,431.28905063291137
+17,"Villahermosa, Tab.",5. Salud y cuidado personal,5.1. Salud,1790.7340800000002
+17,"Villahermosa, Tab.",5. Salud y cuidado personal,5.2. Cuidado personal,241.83216494845362
+17,"Villahermosa, Tab.",6. Transporte,6.1. Transporte público,1191.3483333333334
+17,"Villahermosa, Tab.",6. Transporte,6.2. Transporte por cuenta propia,84914.69946236559
+17,"Villahermosa, Tab.",7. Educación y esparcimiento,7.1. Educación,3622.338860759494
+17,"Villahermosa, Tab.",7. Educación y esparcimiento,7.2. Esparcimiento,2214.9027922077926
+17,"Villahermosa, Tab.",8. Otros servicios,8.1. Otros servicios,1983.5909433962265
+18,"Tampico, Tamps.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,117.9319072847682
+18,"Tampico, Tamps.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,333.1
+18,"Tampico, Tamps.","2. Ropa, calzado y accesorios",2.1. Ropa,380.838025210084
+18,"Tampico, Tamps.","2. Ropa, calzado y accesorios",2.2. Calzado,652.5020512820513
+18,"Tampico, Tamps.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1079.5021739130434
+18,"Tampico, Tamps.",3. Vivienda,3.1. Costo de uso de vivienda,301.2236363636364
+18,"Tampico, Tamps.",3. Vivienda,3.2. Electricidad y combustibles,9137.218367346939
+18,"Tampico, Tamps.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,542.2111111111111
+18,"Tampico, Tamps.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5554.669741379311
+18,"Tampico, Tamps.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,462.29777777777775
+18,"Tampico, Tamps.",5. Salud y cuidado personal,5.1. Salud,1348.8573504273504
+18,"Tampico, Tamps.",5. Salud y cuidado personal,5.2. Cuidado personal,190.38296703296703
+18,"Tampico, Tamps.",6. Transporte,6.1. Transporte público,1370.5
+18,"Tampico, Tamps.",6. Transporte,6.2. Transporte por cuenta propia,69541.31207920791
+18,"Tampico, Tamps.",7. Educación y esparcimiento,7.1. Educación,2149.8751515151516
+18,"Tampico, Tamps.",7. Educación y esparcimiento,7.2. Esparcimiento,2215.1142465753423
+18,"Tampico, Tamps.",8. Otros servicios,8.1. Otros servicios,1546.2489130434783
+19,"Chihuahua, Chih.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,123.34795698924732
+19,"Chihuahua, Chih.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,264.0411627906977
+19,"Chihuahua, Chih.","2. Ropa, calzado y accesorios",2.1. Ropa,428.16534759358285
+19,"Chihuahua, Chih.","2. Ropa, calzado y accesorios",2.2. Calzado,869.219761904762
+19,"Chihuahua, Chih.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1270.2651851851854
+19,"Chihuahua, Chih.",3. Vivienda,3.1. Costo de uso de vivienda,381.4066666666667
+19,"Chihuahua, Chih.",3. Vivienda,3.2. Electricidad y combustibles,8607.872352941176
+19,"Chihuahua, Chih.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1327.0638095238096
+19,"Chihuahua, Chih.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,7143.79019047619
+19,"Chihuahua, Chih.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,615.9946
+19,"Chihuahua, Chih.",5. Salud y cuidado personal,5.1. Salud,3664.5617543859653
+19,"Chihuahua, Chih.",5. Salud y cuidado personal,5.2. Cuidado personal,185.41036585365853
+19,"Chihuahua, Chih.",6. Transporte,6.1. Transporte público,1065.9895833333333
+19,"Chihuahua, Chih.",6. Transporte,6.2. Transporte por cuenta propia,103133.27253333334
+19,"Chihuahua, Chih.",7. Educación y esparcimiento,7.1. Educación,2980.6975409836064
+19,"Chihuahua, Chih.",7. Educación y esparcimiento,7.2. Esparcimiento,1902.9376119402987
+19,"Chihuahua, Chih.",8. Otros servicios,8.1. Otros servicios,2186.0519607843135
+20,"Hermosillo, Son.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,123.67051851851852
+20,"Hermosillo, Son.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,296.1059090909091
+20,"Hermosillo, Son.","2. Ropa, calzado y accesorios",2.1. Ropa,393.34210970464136
+20,"Hermosillo, Son.","2. Ropa, calzado y accesorios",2.2. Calzado,602.7092105263158
+20,"Hermosillo, Son.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1145.3792105263158
+20,"Hermosillo, Son.",3. Vivienda,3.1. Costo de uso de vivienda,614.5925
+20,"Hermosillo, Son.",3. Vivienda,3.2. Electricidad y combustibles,8193.521276595744
+20,"Hermosillo, Son.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1222.161
+20,"Hermosillo, Son.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6236.385147058823
+20,"Hermosillo, Son.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,400.94755555555554
+20,"Hermosillo, Son.",5. Salud y cuidado personal,5.1. Salud,2010.555655737705
+20,"Hermosillo, Son.",5. Salud y cuidado personal,5.2. Cuidado personal,221.13971830985915
+20,"Hermosillo, Son.",6. Transporte,6.1. Transporte público,987.6879166666668
+20,"Hermosillo, Son.",6. Transporte,6.2. Transporte por cuenta propia,104457.27833333334
+20,"Hermosillo, Son.",7. Educación y esparcimiento,7.1. Educación,3336.0129508196724
+20,"Hermosillo, Son.",7. Educación y esparcimiento,7.2. Esparcimiento,1477.4846153846154
+20,"Hermosillo, Son.",8. Otros servicios,8.1. Otros servicios,2467.4656
+21,"Monclova, Coah.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,124.59748807631162
+21,"Monclova, Coah.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,282.12457142857147
+21,"Monclova, Coah.","2. Ropa, calzado y accesorios",2.1. Ropa,335.5821359223301
+21,"Monclova, Coah.","2. Ropa, calzado y accesorios",2.2. Calzado,558.3895238095238
+21,"Monclova, Coah.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,405.71318181818185
+21,"Monclova, Coah.",3. Vivienda,3.1. Costo de uso de vivienda,243.96727272727273
+21,"Monclova, Coah.",3. Vivienda,3.2. Electricidad y combustibles,9528.981521739131
+21,"Monclova, Coah.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,429.646
+21,"Monclova, Coah.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5689.837307692307
+21,"Monclova, Coah.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,237.55406779661018
+21,"Monclova, Coah.",5. Salud y cuidado personal,5.1. Salud,1292.7975833333333
+21,"Monclova, Coah.",5. Salud y cuidado personal,5.2. Cuidado personal,176.869875
+21,"Monclova, Coah.",6. Transporte,6.1. Transporte público,900.452380952381
+21,"Monclova, Coah.",6. Transporte,6.2. Transporte por cuenta propia,116005.27
+21,"Monclova, Coah.",7. Educación y esparcimiento,7.1. Educación,2203.784833333333
+21,"Monclova, Coah.",7. Educación y esparcimiento,7.2. Esparcimiento,1188.415157894737
+21,"Monclova, Coah.",8. Otros servicios,8.1. Otros servicios,1832.2404545454547
+22,"Córdoba, Ver.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,109.94994277539341
+22,"Córdoba, Ver.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,273.8775
+22,"Córdoba, Ver.","2. Ropa, calzado y accesorios",2.1. Ropa,366.3586813186813
+22,"Córdoba, Ver.","2. Ropa, calzado y accesorios",2.2. Calzado,527.9644444444444
+22,"Córdoba, Ver.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,457.59000000000003
+22,"Córdoba, Ver.",3. Vivienda,3.1. Costo de uso de vivienda,110.1557142857143
+22,"Córdoba, Ver.",3. Vivienda,3.2. Electricidad y combustibles,10276.56847826087
+22,"Córdoba, Ver.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,220.7211111111111
+22,"Córdoba, Ver.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5717.284146341463
+22,"Córdoba, Ver.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,233.28972602739728
+22,"Córdoba, Ver.",5. Salud y cuidado personal,5.1. Salud,1770.9510655737704
+22,"Córdoba, Ver.",5. Salud y cuidado personal,5.2. Cuidado personal,124.56037037037036
+22,"Córdoba, Ver.",6. Transporte,6.1. Transporte público,1409.0434782608695
+22,"Córdoba, Ver.",6. Transporte,6.2. Transporte por cuenta propia,80331.42358974359
+22,"Córdoba, Ver.",7. Educación y esparcimiento,7.1. Educación,2248.917288135593
+22,"Córdoba, Ver.",7. Educación y esparcimiento,7.2. Esparcimiento,1795.9076991150444
+22,"Córdoba, Ver.",8. Otros servicios,8.1. Otros servicios,1425.6354545454544
+23,"Aguascalientes, Ags.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,112.52284296028881
+23,"Aguascalientes, Ags.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,236.72051724137933
+23,"Aguascalientes, Ags.","2. Ropa, calzado y accesorios",2.1. Ropa,375.9907692307693
+23,"Aguascalientes, Ags.","2. Ropa, calzado y accesorios",2.2. Calzado,568.9931914893617
+23,"Aguascalientes, Ags.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1729.6901785714285
+23,"Aguascalientes, Ags.",3. Vivienda,3.1. Costo de uso de vivienda,591.9241666666667
+23,"Aguascalientes, Ags.",3. Vivienda,3.2. Electricidad y combustibles,9275.999019607843
+23,"Aguascalientes, Ags.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,331.4096296296296
+23,"Aguascalientes, Ags.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5974.448407643312
+23,"Aguascalientes, Ags.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,361.82676767676764
+23,"Aguascalientes, Ags.",5. Salud y cuidado personal,5.1. Salud,1665.8159420289855
+23,"Aguascalientes, Ags.",5. Salud y cuidado personal,5.2. Cuidado personal,160.66950980392158
+23,"Aguascalientes, Ags.",6. Transporte,6.1. Transporte público,866.5347999999999
+23,"Aguascalientes, Ags.",6. Transporte,6.2. Transporte por cuenta propia,61900.485123966944
+23,"Aguascalientes, Ags.",7. Educación y esparcimiento,7.1. Educación,2678.4735384615383
+23,"Aguascalientes, Ags.",7. Educación y esparcimiento,7.2. Esparcimiento,1527.698129032258
+23,"Aguascalientes, Ags.",8. Otros servicios,8.1. Otros servicios,2319.698367346939
+24,"Tijuana, B.C.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,126.59648648648648
+24,"Tijuana, B.C.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,256.62833333333333
+24,"Tijuana, B.C.","2. Ropa, calzado y accesorios",2.1. Ropa,357.12886904761905
+24,"Tijuana, B.C.","2. Ropa, calzado y accesorios",2.2. Calzado,607.1974193548386
+24,"Tijuana, B.C.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1805.7092857142857
+24,"Tijuana, B.C.",3. Vivienda,3.1. Costo de uso de vivienda,653.21
+24,"Tijuana, B.C.",3. Vivienda,3.2. Electricidad y combustibles,8275.531041666667
+24,"Tijuana, B.C.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,482.82277777777773
+24,"Tijuana, B.C.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6789.881382113821
+24,"Tijuana, B.C.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,434.445
+24,"Tijuana, B.C.",5. Salud y cuidado personal,5.1. Salud,2421.741565217391
+24,"Tijuana, B.C.",5. Salud y cuidado personal,5.2. Cuidado personal,342.1912
+24,"Tijuana, B.C.",6. Transporte,6.1. Transporte público,1044.3366666666668
+24,"Tijuana, B.C.",6. Transporte,6.2. Transporte por cuenta propia,98072.77375000001
+24,"Tijuana, B.C.",7. Educación y esparcimiento,7.1. Educación,2371.3633333333337
+24,"Tijuana, B.C.",7. Educación y esparcimiento,7.2. Esparcimiento,3412.5374590163933
+24,"Tijuana, B.C.",8. Otros servicios,8.1. Otros servicios,3502.182040816326
+25,"Matamoros, Tamps.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,123.37533234859676
+25,"Matamoros, Tamps.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,264.817380952381
+25,"Matamoros, Tamps.","2. Ropa, calzado y accesorios",2.1. Ropa,286.8209659090909
+25,"Matamoros, Tamps.","2. Ropa, calzado y accesorios",2.2. Calzado,453.20789473684215
+25,"Matamoros, Tamps.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,408.3974074074074
+25,"Matamoros, Tamps.",3. Vivienda,3.1. Costo de uso de vivienda,312.54857142857145
+25,"Matamoros, Tamps.",3. Vivienda,3.2. Electricidad y combustibles,8689.181702127658
+25,"Matamoros, Tamps.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1008.0899999999999
+25,"Matamoros, Tamps.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,7153.631774193548
+25,"Matamoros, Tamps.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,526.274031007752
+25,"Matamoros, Tamps.",5. Salud y cuidado personal,5.1. Salud,3121.8597297297297
+25,"Matamoros, Tamps.",5. Salud y cuidado personal,5.2. Cuidado personal,179.37548780487805
+25,"Matamoros, Tamps.",6. Transporte,6.1. Transporte público,1029.415909090909
+25,"Matamoros, Tamps.",6. Transporte,6.2. Transporte por cuenta propia,91656.32884057972
+25,"Matamoros, Tamps.",7. Educación y esparcimiento,7.1. Educación,1765.8988333333332
+25,"Matamoros, Tamps.",7. Educación y esparcimiento,7.2. Esparcimiento,1411.3580165289256
+25,"Matamoros, Tamps.",8. Otros servicios,8.1. Otros servicios,2672.3751063829786
+26,"Colima, Col.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,113.87313169984687
+26,"Colima, Col.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,357.6466666666667
+26,"Colima, Col.","2. Ropa, calzado y accesorios",2.1. Ropa,379.55662538699687
+26,"Colima, Col.","2. Ropa, calzado y accesorios",2.2. Calzado,545.3879069767441
+26,"Colima, Col.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,520.8743478260869
+26,"Colima, Col.",3. Vivienda,3.1. Costo de uso de vivienda,1335.4791666666667
+26,"Colima, Col.",3. Vivienda,3.2. Electricidad y combustibles,9188.431176470587
+26,"Colima, Col.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,738.7466666666666
+26,"Colima, Col.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6197.533631578947
+26,"Colima, Col.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,406.8268899521531
+26,"Colima, Col.",5. Salud y cuidado personal,5.1. Salud,1568.634713375796
+26,"Colima, Col.",5. Salud y cuidado personal,5.2. Cuidado personal,147.41025
+26,"Colima, Col.",6. Transporte,6.1. Transporte público,701.8654545454546
+26,"Colima, Col.",6. Transporte,6.2. Transporte por cuenta propia,53950.899069767445
+26,"Colima, Col.",7. Educación y esparcimiento,7.1. Educación,1629.1615384615384
+26,"Colima, Col.",7. Educación y esparcimiento,7.2. Esparcimiento,1813.982543352601
+26,"Colima, Col.",8. Otros servicios,8.1. Otros servicios,1516.1345999999999
+27,"La Paz, B.C.S.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,122.5881595648232
+27,"La Paz, B.C.S.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,275.3186
+27,"La Paz, B.C.S.","2. Ropa, calzado y accesorios",2.1. Ropa,423.0114130434783
+27,"La Paz, B.C.S.","2. Ropa, calzado y accesorios",2.2. Calzado,626.705
+27,"La Paz, B.C.S.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1209.8446000000001
+27,"La Paz, B.C.S.",3. Vivienda,3.1. Costo de uso de vivienda,694.8883333333333
+27,"La Paz, B.C.S.",3. Vivienda,3.2. Electricidad y combustibles,9289.4672
+27,"La Paz, B.C.S.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,879.5360000000001
+27,"La Paz, B.C.S.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,9477.541754385964
+27,"La Paz, B.C.S.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,434.5233908045977
+27,"La Paz, B.C.S.",5. Salud y cuidado personal,5.1. Salud,1656.3609655172413
+27,"La Paz, B.C.S.",5. Salud y cuidado personal,5.2. Cuidado personal,250.0710989010989
+27,"La Paz, B.C.S.",6. Transporte,6.1. Transporte público,935.8771428571428
+27,"La Paz, B.C.S.",6. Transporte,6.2. Transporte por cuenta propia,63412.898623853216
+27,"La Paz, B.C.S.",7. Educación y esparcimiento,7.1. Educación,2308.792985074627
+27,"La Paz, B.C.S.",7. Educación y esparcimiento,7.2. Esparcimiento,1773.694605263158
+27,"La Paz, B.C.S.",8. Otros servicios,8.1. Otros servicios,2133.9745652173915
+28,"Chetumal, Q. Roo.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,130.36691950464396
+28,"Chetumal, Q. Roo.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,292.89000000000004
+28,"Chetumal, Q. Roo.","2. Ropa, calzado y accesorios",2.1. Ropa,286.533947368421
+28,"Chetumal, Q. Roo.","2. Ropa, calzado y accesorios",2.2. Calzado,620.679705882353
+28,"Chetumal, Q. Roo.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,399.3878571428572
+28,"Chetumal, Q. Roo.",3. Vivienda,3.1. Costo de uso de vivienda,605.7177777777778
+28,"Chetumal, Q. Roo.",3. Vivienda,3.2. Electricidad y combustibles,10063.605952380953
+28,"Chetumal, Q. Roo.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,2000.736
+28,"Chetumal, Q. Roo.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5383.329734513274
+28,"Chetumal, Q. Roo.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,276.59133333333335
+28,"Chetumal, Q. Roo.",5. Salud y cuidado personal,5.1. Salud,3494.4367346938775
+28,"Chetumal, Q. Roo.",5. Salud y cuidado personal,5.2. Cuidado personal,224.65723684210528
+28,"Chetumal, Q. Roo.",6. Transporte,6.1. Transporte público,1709.6527272727274
+28,"Chetumal, Q. Roo.",6. Transporte,6.2. Transporte por cuenta propia,61901.74418181818
+28,"Chetumal, Q. Roo.",7. Educación y esparcimiento,7.1. Educación,3651.6353999999997
+28,"Chetumal, Q. Roo.",7. Educación y esparcimiento,7.2. Esparcimiento,1523.2643678160919
+28,"Chetumal, Q. Roo.",8. Otros servicios,8.1. Otros servicios,2306.684814814815
+29,"Jacona, Mich.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,108.28863703703703
+29,"Jacona, Mich.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,273.11485714285715
+29,"Jacona, Mich.","2. Ropa, calzado y accesorios",2.1. Ropa,308.3301081081081
+29,"Jacona, Mich.","2. Ropa, calzado y accesorios",2.2. Calzado,730.0985
+29,"Jacona, Mich.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,559.2545454545455
+29,"Jacona, Mich.",3. Vivienda,3.1. Costo de uso de vivienda,750.5155555555555
+29,"Jacona, Mich.",3. Vivienda,3.2. Electricidad y combustibles,11253.877142857144
+29,"Jacona, Mich.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1037.4933333333333
+29,"Jacona, Mich.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,4271.9414705882355
+29,"Jacona, Mich.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,383.7131205673759
+29,"Jacona, Mich.",5. Salud y cuidado personal,5.1. Salud,1308.602828282828
+29,"Jacona, Mich.",5. Salud y cuidado personal,5.2. Cuidado personal,150.11240506329113
+29,"Jacona, Mich.",6. Transporte,6.1. Transporte público,643.3454545454546
+29,"Jacona, Mich.",6. Transporte,6.2. Transporte por cuenta propia,50421.8075409836
+29,"Jacona, Mich.",7. Educación y esparcimiento,7.1. Educación,1188.8581818181817
+29,"Jacona, Mich.",7. Educación y esparcimiento,7.2. Esparcimiento,1285.1792452830189
+29,"Jacona, Mich.",8. Otros servicios,8.1. Otros servicios,1899.9520689655174
+30,"Fresnillo, Zac.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,112.15772020725389
+30,"Fresnillo, Zac.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,281.3389189189189
+30,"Fresnillo, Zac.","2. Ropa, calzado y accesorios",2.1. Ropa,302.16075862068965
+30,"Fresnillo, Zac.","2. Ropa, calzado y accesorios",2.2. Calzado,505.0
+30,"Fresnillo, Zac.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,433.6535
+30,"Fresnillo, Zac.",3. Vivienda,3.1. Costo de uso de vivienda,186.7488888888889
+30,"Fresnillo, Zac.",3. Vivienda,3.2. Electricidad y combustibles,11254.025476190476
+30,"Fresnillo, Zac.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,746.6173333333334
+30,"Fresnillo, Zac.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5658.2047959183665
+30,"Fresnillo, Zac.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,212.52307017543862
+30,"Fresnillo, Zac.",5. Salud y cuidado personal,5.1. Salud,1241.0288764044944
+30,"Fresnillo, Zac.",5. Salud y cuidado personal,5.2. Cuidado personal,164.736
+30,"Fresnillo, Zac.",6. Transporte,6.1. Transporte público,809.875
+30,"Fresnillo, Zac.",6. Transporte,6.2. Transporte por cuenta propia,49163.64660377359
+30,"Fresnillo, Zac.",7. Educación y esparcimiento,7.1. Educación,1857.3870967741937
+30,"Fresnillo, Zac.",7. Educación y esparcimiento,7.2. Esparcimiento,1437.172
+30,"Fresnillo, Zac.",8. Otros servicios,8.1. Otros servicios,2572.5865384615386
+31,"Iguala, Gro.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,108.31972519083969
+31,"Iguala, Gro.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,268.4275
+31,"Iguala, Gro.","2. Ropa, calzado y accesorios",2.1. Ropa,222.66360294117646
+31,"Iguala, Gro.","2. Ropa, calzado y accesorios",2.2. Calzado,639.092857142857
+31,"Iguala, Gro.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,624.4388888888889
+31,"Iguala, Gro.",3. Vivienda,3.1. Costo de uso de vivienda,216.34
+31,"Iguala, Gro.",3. Vivienda,3.2. Electricidad y combustibles,10318.287727272727
+31,"Iguala, Gro.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,268.1383333333333
+31,"Iguala, Gro.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6267.836021505376
+31,"Iguala, Gro.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,233.06058823529412
+31,"Iguala, Gro.",5. Salud y cuidado personal,5.1. Salud,1959.8016853932586
+31,"Iguala, Gro.",5. Salud y cuidado personal,5.2. Cuidado personal,155.573125
+31,"Iguala, Gro.",6. Transporte,6.1. Transporte público,571.8928571428571
+31,"Iguala, Gro.",6. Transporte,6.2. Transporte por cuenta propia,76932.86035714285
+31,"Iguala, Gro.",7. Educación y esparcimiento,7.1. Educación,3487.757333333334
+31,"Iguala, Gro.",7. Educación y esparcimiento,7.2. Esparcimiento,876.5196511627908
+31,"Iguala, Gro.",8. Otros servicios,8.1. Otros servicios,2342.32962962963
+32,"Huatabampo, Son.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,116.59914
+32,"Huatabampo, Son.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,291.7972413793104
+32,"Huatabampo, Son.","2. Ropa, calzado y accesorios",2.1. Ropa,235.75300653594772
+32,"Huatabampo, Son.","2. Ropa, calzado y accesorios",2.2. Calzado,490.16857142857145
+32,"Huatabampo, Son.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,339.7541176470588
+32,"Huatabampo, Son.",3. Vivienda,3.1. Costo de uso de vivienda,621.4422222222222
+32,"Huatabampo, Son.",3. Vivienda,3.2. Electricidad y combustibles,9153.242142857143
+32,"Huatabampo, Son.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,479.40666666666664
+32,"Huatabampo, Son.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,4095.125465116279
+32,"Huatabampo, Son.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,238.40368932038834
+32,"Huatabampo, Son.",5. Salud y cuidado personal,5.1. Salud,2168.9891764705885
+32,"Huatabampo, Son.",5. Salud y cuidado personal,5.2. Cuidado personal,228.67295081967214
+32,"Huatabampo, Son.",6. Transporte,6.1. Transporte público,937.5192307692307
+32,"Huatabampo, Son.",6. Transporte,6.2. Transporte por cuenta propia,116021.48739130434
+32,"Huatabampo, Son.",7. Educación y esparcimiento,7.1. Educación,3744.3221875
+32,"Huatabampo, Son.",7. Educación y esparcimiento,7.2. Esparcimiento,1899.2057971014492
+32,"Huatabampo, Son.",8. Otros servicios,8.1. Otros servicios,2698.935925925926
+33,"Tulancingo, Hgo.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,108.29725338491296
+33,"Tulancingo, Hgo.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,264.6202631578947
+33,"Tulancingo, Hgo.","2. Ropa, calzado y accesorios",2.1. Ropa,388.1633082706767
+33,"Tulancingo, Hgo.","2. Ropa, calzado y accesorios",2.2. Calzado,462.64516129032256
+33,"Tulancingo, Hgo.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,627.15
+33,"Tulancingo, Hgo.",3. Vivienda,3.1. Costo de uso de vivienda,373.92555555555555
+33,"Tulancingo, Hgo.",3. Vivienda,3.2. Electricidad y combustibles,11253.855952380953
+33,"Tulancingo, Hgo.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,229.798
+33,"Tulancingo, Hgo.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5837.259368421052
+33,"Tulancingo, Hgo.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,274.17578947368423
+33,"Tulancingo, Hgo.",5. Salud y cuidado personal,5.1. Salud,1825.5055102040817
+33,"Tulancingo, Hgo.",5. Salud y cuidado personal,5.2. Cuidado personal,109.9689393939394
+33,"Tulancingo, Hgo.",6. Transporte,6.1. Transporte público,564.894
+33,"Tulancingo, Hgo.",6. Transporte,6.2. Transporte por cuenta propia,69596.42631578947
+33,"Tulancingo, Hgo.",7. Educación y esparcimiento,7.1. Educación,1750.0460606060608
+33,"Tulancingo, Hgo.",7. Educación y esparcimiento,7.2. Esparcimiento,884.643829787234
+33,"Tulancingo, Hgo.",8. Otros servicios,8.1. Otros servicios,1236.435925925926
+34,"Cortazar, Gto.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,110.08819354838708
+34,"Cortazar, Gto.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,216.35705882352943
+34,"Cortazar, Gto.","2. Ropa, calzado y accesorios",2.1. Ropa,463.08705035971224
+34,"Cortazar, Gto.","2. Ropa, calzado y accesorios",2.2. Calzado,485.62793103448274
+34,"Cortazar, Gto.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,369.83133333333336
+34,"Cortazar, Gto.",3. Vivienda,3.1. Costo de uso de vivienda,427.9244444444444
+34,"Cortazar, Gto.",3. Vivienda,3.2. Electricidad y combustibles,10998.806744186046
+34,"Cortazar, Gto.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,556.024
+34,"Cortazar, Gto.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5976.385576923077
+34,"Cortazar, Gto.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,322.6218181818182
+34,"Cortazar, Gto.",5. Salud y cuidado personal,5.1. Salud,1618.0178787878788
+34,"Cortazar, Gto.",5. Salud y cuidado personal,5.2. Cuidado personal,175.21319444444444
+34,"Cortazar, Gto.",6. Transporte,6.1. Transporte público,702.1818181818181
+34,"Cortazar, Gto.",6. Transporte,6.2. Transporte por cuenta propia,46432.64971014493
+34,"Cortazar, Gto.",7. Educación y esparcimiento,7.1. Educación,1469.6812121212122
+34,"Cortazar, Gto.",7. Educación y esparcimiento,7.2. Esparcimiento,1021.3067532467531
+34,"Cortazar, Gto.",8. Otros servicios,8.1. Otros servicios,3226.223214285714
+35,"Jiménez, Chih.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,111.02930367504835
+35,"Jiménez, Chih.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,215.34724137931033
+35,"Jiménez, Chih.","2. Ropa, calzado y accesorios",2.1. Ropa,345.23805970149255
+35,"Jiménez, Chih.","2. Ropa, calzado y accesorios",2.2. Calzado,591.780606060606
+35,"Jiménez, Chih.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,299.8335294117647
+35,"Jiménez, Chih.",3. Vivienda,3.1. Costo de uso de vivienda,315.2077777777778
+35,"Jiménez, Chih.",3. Vivienda,3.2. Electricidad y combustibles,10435.955
+35,"Jiménez, Chih.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1068.728
+35,"Jiménez, Chih.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5843.903
+35,"Jiménez, Chih.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,363.8775925925926
+35,"Jiménez, Chih.",5. Salud y cuidado personal,5.1. Salud,1534.803908045977
+35,"Jiménez, Chih.",5. Salud y cuidado personal,5.2. Cuidado personal,128.70833333333334
+35,"Jiménez, Chih.",6. Transporte,6.1. Transporte público,756.7857142857143
+35,"Jiménez, Chih.",6. Transporte,6.2. Transporte por cuenta propia,78605.20708333333
+35,"Jiménez, Chih.",7. Educación y esparcimiento,7.1. Educación,2657.039375
+35,"Jiménez, Chih.",7. Educación y esparcimiento,7.2. Esparcimiento,1051.3474025974026
+35,"Jiménez, Chih.",8. Otros servicios,8.1. Otros servicios,1856.641111111111
+36,"Durango, Dgo.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,115.27544662309369
+36,"Durango, Dgo.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,262.365306122449
+36,"Durango, Dgo.","2. Ropa, calzado y accesorios",2.1. Ropa,428.89962264150944
+36,"Durango, Dgo.","2. Ropa, calzado y accesorios",2.2. Calzado,603.5483720930232
+36,"Durango, Dgo.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1106.3681081081081
+36,"Durango, Dgo.",3. Vivienda,3.1. Costo de uso de vivienda,427.88076923076926
+36,"Durango, Dgo.",3. Vivienda,3.2. Electricidad y combustibles,9703.400833333333
+36,"Durango, Dgo.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1112.3620833333332
+36,"Durango, Dgo.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6734.39031446541
+36,"Durango, Dgo.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,412.1248571428572
+36,"Durango, Dgo.",5. Salud y cuidado personal,5.1. Salud,2277.6174615384616
+36,"Durango, Dgo.",5. Salud y cuidado personal,5.2. Cuidado personal,198.5907692307692
+36,"Durango, Dgo.",6. Transporte,6.1. Transporte público,1251.6722727272727
+36,"Durango, Dgo.",6. Transporte,6.2. Transporte por cuenta propia,81847.11696202532
+36,"Durango, Dgo.",7. Educación y esparcimiento,7.1. Educación,1801.135076923077
+36,"Durango, Dgo.",7. Educación y esparcimiento,7.2. Esparcimiento,1688.999338235294
+36,"Durango, Dgo.",8. Otros servicios,8.1. Otros servicios,1804.1274999999998
+37,"Tepic, Nay.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,105.70029838022165
+37,"Tepic, Nay.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,324.06444444444446
+37,"Tepic, Nay.","2. Ropa, calzado y accesorios",2.1. Ropa,380.8093624161074
+37,"Tepic, Nay.","2. Ropa, calzado y accesorios",2.2. Calzado,883.2782222222221
+37,"Tepic, Nay.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1132.80125
+37,"Tepic, Nay.",3. Vivienda,3.1. Costo de uso de vivienda,446.9253846153846
+37,"Tepic, Nay.",3. Vivienda,3.2. Electricidad y combustibles,9815.702500000001
+37,"Tepic, Nay.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,1606.6677777777777
+37,"Tepic, Nay.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6115.1407471264365
+37,"Tepic, Nay.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,514.5914215686274
+37,"Tepic, Nay.",5. Salud y cuidado personal,5.1. Salud,1486.080138888889
+37,"Tepic, Nay.",5. Salud y cuidado personal,5.2. Cuidado personal,264.1020353982301
+37,"Tepic, Nay.",6. Transporte,6.1. Transporte público,1213.6875
+37,"Tepic, Nay.",6. Transporte,6.2. Transporte por cuenta propia,69357.80401960784
+37,"Tepic, Nay.",7. Educación y esparcimiento,7.1. Educación,2107.089275362319
+37,"Tepic, Nay.",7. Educación y esparcimiento,7.2. Esparcimiento,3127.5949044585986
+37,"Tepic, Nay.",8. Otros servicios,8.1. Otros servicios,3333.876274509804
+38,"Oaxaca, Oax.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,116.34103762827822
+38,"Oaxaca, Oax.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,282.01714285714286
+38,"Oaxaca, Oax.","2. Ropa, calzado y accesorios",2.1. Ropa,354.8351666666667
+38,"Oaxaca, Oax.","2. Ropa, calzado y accesorios",2.2. Calzado,593.6144186046512
+38,"Oaxaca, Oax.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1320.5474285714288
+38,"Oaxaca, Oax.",3. Vivienda,3.1. Costo de uso de vivienda,154.0823076923077
+38,"Oaxaca, Oax.",3. Vivienda,3.2. Electricidad y combustibles,10743.015227272726
+38,"Oaxaca, Oax.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,388.36833333333334
+38,"Oaxaca, Oax.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5219.9959602649005
+38,"Oaxaca, Oax.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,358.06545454545454
+38,"Oaxaca, Oax.",5. Salud y cuidado personal,5.1. Salud,1658.3100763358777
+38,"Oaxaca, Oax.",5. Salud y cuidado personal,5.2. Cuidado personal,253.053625
+38,"Oaxaca, Oax.",6. Transporte,6.1. Transporte público,725.1924
+38,"Oaxaca, Oax.",6. Transporte,6.2. Transporte por cuenta propia,64340.116195652176
+38,"Oaxaca, Oax.",7. Educación y esparcimiento,7.1. Educación,3046.6307792207795
+38,"Oaxaca, Oax.",7. Educación y esparcimiento,7.2. Esparcimiento,2254.8294805194805
+38,"Oaxaca, Oax.",8. Otros servicios,8.1. Otros servicios,1234.89
+39,"Querétaro, Qro.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,109.39563409563411
+39,"Querétaro, Qro.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,395.296
+39,"Querétaro, Qro.","2. Ropa, calzado y accesorios",2.1. Ropa,480.2128260869565
+39,"Querétaro, Qro.","2. Ropa, calzado y accesorios",2.2. Calzado,482.7883673469388
+39,"Querétaro, Qro.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1792.5558333333333
+39,"Querétaro, Qro.",3. Vivienda,3.1. Costo de uso de vivienda,717.7066666666666
+39,"Querétaro, Qro.",3. Vivienda,3.2. Electricidad y combustibles,9652.859183673469
+39,"Querétaro, Qro.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,728.2691304347826
+39,"Querétaro, Qro.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,8465.666013513513
+39,"Querétaro, Qro.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,651.8502617801047
+39,"Querétaro, Qro.",5. Salud y cuidado personal,5.1. Salud,2279.7094029850746
+39,"Querétaro, Qro.",5. Salud y cuidado personal,5.2. Cuidado personal,201.27047619047622
+39,"Querétaro, Qro.",6. Transporte,6.1. Transporte público,1305.7653846153846
+39,"Querétaro, Qro.",6. Transporte,6.2. Transporte por cuenta propia,73201.07863636364
+39,"Querétaro, Qro.",7. Educación y esparcimiento,7.1. Educación,2569.8745588235292
+39,"Querétaro, Qro.",7. Educación y esparcimiento,7.2. Esparcimiento,2499.1884848484847
+39,"Querétaro, Qro.",8. Otros servicios,8.1. Otros servicios,4026.079375
+40,"Cuernavaca, Mor.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,119.81258099352051
+40,"Cuernavaca, Mor.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,378.34292682926827
+40,"Cuernavaca, Mor.","2. Ropa, calzado y accesorios",2.1. Ropa,387.46821705426356
+40,"Cuernavaca, Mor.","2. Ropa, calzado y accesorios",2.2. Calzado,610.453947368421
+40,"Cuernavaca, Mor.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1076.3652083333334
+40,"Cuernavaca, Mor.",3. Vivienda,3.1. Costo de uso de vivienda,531.8466666666667
+40,"Cuernavaca, Mor.",3. Vivienda,3.2. Electricidad y combustibles,11543.624318181817
+40,"Cuernavaca, Mor.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,2366.1066666666666
+40,"Cuernavaca, Mor.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5623.222176470588
+40,"Cuernavaca, Mor.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,327.4471022727273
+40,"Cuernavaca, Mor.",5. Salud y cuidado personal,5.1. Salud,1968.5408609271522
+40,"Cuernavaca, Mor.",5. Salud y cuidado personal,5.2. Cuidado personal,156.64918181818183
+40,"Cuernavaca, Mor.",6. Transporte,6.1. Transporte público,1183.7468181818183
+40,"Cuernavaca, Mor.",6. Transporte,6.2. Transporte por cuenta propia,79038.08
+40,"Cuernavaca, Mor.",7. Educación y esparcimiento,7.1. Educación,3557.7519047619044
+40,"Cuernavaca, Mor.",7. Educación y esparcimiento,7.2. Esparcimiento,1878.9542465753425
+40,"Cuernavaca, Mor.",8. Otros servicios,8.1. Otros servicios,3453.4844
+41,"Tlaxcala, Tlax.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,94.9578041825095
+41,"Tlaxcala, Tlax.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,250.14729166666666
+41,"Tlaxcala, Tlax.","2. Ropa, calzado y accesorios",2.1. Ropa,296.82520833333336
+41,"Tlaxcala, Tlax.","2. Ropa, calzado y accesorios",2.2. Calzado,606.6292105263158
+41,"Tlaxcala, Tlax.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,469.6643243243243
+41,"Tlaxcala, Tlax.",3. Vivienda,3.1. Costo de uso de vivienda,612.0999999999999
+41,"Tlaxcala, Tlax.",3. Vivienda,3.2. Electricidad y combustibles,10749.311590909092
+41,"Tlaxcala, Tlax.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,494.80636363636364
+41,"Tlaxcala, Tlax.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,4367.695369127517
+41,"Tlaxcala, Tlax.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,244.42962025316453
+41,"Tlaxcala, Tlax.",5. Salud y cuidado personal,5.1. Salud,1876.680465116279
+41,"Tlaxcala, Tlax.",5. Salud y cuidado personal,5.2. Cuidado personal,185.3737634408602
+41,"Tlaxcala, Tlax.",6. Transporte,6.1. Transporte público,743.3807692307693
+41,"Tlaxcala, Tlax.",6. Transporte,6.2. Transporte por cuenta propia,49633.897647058824
+41,"Tlaxcala, Tlax.",7. Educación y esparcimiento,7.1. Educación,2157.485633802817
+41,"Tlaxcala, Tlax.",7. Educación y esparcimiento,7.2. Esparcimiento,1499.8771774193547
+41,"Tlaxcala, Tlax.",8. Otros servicios,8.1. Otros servicios,2602.9521212121213
+42,"San Andrés Tuxtla, Ver.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,102.86627705627706
+42,"San Andrés Tuxtla, Ver.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,277.59066666666666
+42,"San Andrés Tuxtla, Ver.","2. Ropa, calzado y accesorios",2.1. Ropa,225.4449342105263
+42,"San Andrés Tuxtla, Ver.","2. Ropa, calzado y accesorios",2.2. Calzado,606.6242857142856
+42,"San Andrés Tuxtla, Ver.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,644.661111111111
+42,"San Andrés Tuxtla, Ver.",3. Vivienda,3.1. Costo de uso de vivienda,102.60444444444444
+42,"San Andrés Tuxtla, Ver.",3. Vivienda,3.2. Electricidad y combustibles,11153.99142857143
+42,"San Andrés Tuxtla, Ver.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,906.6790000000001
+42,"San Andrés Tuxtla, Ver.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,4131.376352941176
+42,"San Andrés Tuxtla, Ver.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,191.18058252427184
+42,"San Andrés Tuxtla, Ver.",5. Salud y cuidado personal,5.1. Salud,969.5083529411763
+42,"San Andrés Tuxtla, Ver.",5. Salud y cuidado personal,5.2. Cuidado personal,151.9837878787879
+42,"San Andrés Tuxtla, Ver.",6. Transporte,6.1. Transporte público,592.3390909090908
+42,"San Andrés Tuxtla, Ver.",6. Transporte,6.2. Transporte por cuenta propia,56768.82070175438
+42,"San Andrés Tuxtla, Ver.",7. Educación y esparcimiento,7.1. Educación,1364.629677419355
+42,"San Andrés Tuxtla, Ver.",7. Educación y esparcimiento,7.2. Esparcimiento,673.3717647058824
+42,"San Andrés Tuxtla, Ver.",8. Otros servicios,8.1. Otros servicios,1620.188076923077
+43,"Campeche, Camp.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,107.67004464285714
+43,"Campeche, Camp.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,265.0437777777778
+43,"Campeche, Camp.","2. Ropa, calzado y accesorios",2.1. Ropa,287.19259259259263
+43,"Campeche, Camp.","2. Ropa, calzado y accesorios",2.2. Calzado,609.2313513513513
+43,"Campeche, Camp.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,750.0013461538462
+43,"Campeche, Camp.",3. Vivienda,3.1. Costo de uso de vivienda,138.45166666666668
+43,"Campeche, Camp.",3. Vivienda,3.2. Electricidad y combustibles,9870.315652173913
+43,"Campeche, Camp.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,373.4915
+43,"Campeche, Camp.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6123.928952879581
+43,"Campeche, Camp.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,278.47688524590166
+43,"Campeche, Camp.",5. Salud y cuidado personal,5.1. Salud,1403.2183647798743
+43,"Campeche, Camp.",5. Salud y cuidado personal,5.2. Cuidado personal,204.25698113207548
+43,"Campeche, Camp.",6. Transporte,6.1. Transporte público,1197.5108695652175
+43,"Campeche, Camp.",6. Transporte,6.2. Transporte por cuenta propia,70509.6953125
+43,"Campeche, Camp.",7. Educación y esparcimiento,7.1. Educación,2356.633333333333
+43,"Campeche, Camp.",7. Educación y esparcimiento,7.2. Esparcimiento,1541.6719254658385
+43,"Campeche, Camp.",8. Otros servicios,8.1. Otros servicios,1974.5359183673468
+44,"Tepatitlán, Jal.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,124.36334615384615
+44,"Tepatitlán, Jal.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,300.97999999999996
+44,"Tepatitlán, Jal.","2. Ropa, calzado y accesorios",2.1. Ropa,320.3825333333333
+44,"Tepatitlán, Jal.","2. Ropa, calzado y accesorios",2.2. Calzado,700.9634285714286
+44,"Tepatitlán, Jal.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,502.5
+44,"Tepatitlán, Jal.",3. Vivienda,3.1. Costo de uso de vivienda,688.8975
+44,"Tepatitlán, Jal.",3. Vivienda,3.2. Electricidad y combustibles,11253.88380952381
+44,"Tepatitlán, Jal.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,2437.921
+44,"Tepatitlán, Jal.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5078.927032967033
+44,"Tepatitlán, Jal.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,362.1990517241379
+44,"Tepatitlán, Jal.",5. Salud y cuidado personal,5.1. Salud,1526.0396938775511
+44,"Tepatitlán, Jal.",5. Salud y cuidado personal,5.2. Cuidado personal,292.4012121212121
+44,"Tepatitlán, Jal.",6. Transporte,6.1. Transporte público,475.47727272727275
+44,"Tepatitlán, Jal.",6. Transporte,6.2. Transporte por cuenta propia,80069.62950819673
+44,"Tepatitlán, Jal.",7. Educación y esparcimiento,7.1. Educación,1234.9342424242425
+44,"Tepatitlán, Jal.",7. Educación y esparcimiento,7.2. Esparcimiento,1180.5127777777777
+44,"Tepatitlán, Jal.",8. Otros servicios,8.1. Otros servicios,5299.099615384615
+45,"Tehuantepec, Oax.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,124.86456102783725
+45,"Tehuantepec, Oax.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,219.41096774193548
+45,"Tehuantepec, Oax.","2. Ropa, calzado y accesorios",2.1. Ropa,295.39613138686127
+45,"Tehuantepec, Oax.","2. Ropa, calzado y accesorios",2.2. Calzado,537.83
+45,"Tehuantepec, Oax.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1091.0055555555555
+45,"Tehuantepec, Oax.",3. Vivienda,3.1. Costo de uso de vivienda,167.8225
+45,"Tehuantepec, Oax.",3. Vivienda,3.2. Electricidad y combustibles,10808.919285714286
+45,"Tehuantepec, Oax.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,323.24363636363637
+45,"Tehuantepec, Oax.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5381.257472527473
+45,"Tehuantepec, Oax.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,295.9258035714286
+45,"Tehuantepec, Oax.",5. Salud y cuidado personal,5.1. Salud,1601.0664556962026
+45,"Tehuantepec, Oax.",5. Salud y cuidado personal,5.2. Cuidado personal,200.35215384615384
+45,"Tehuantepec, Oax.",6. Transporte,6.1. Transporte público,661.1381818181818
+45,"Tehuantepec, Oax.",6. Transporte,6.2. Transporte por cuenta propia,54792.62745098039
+45,"Tehuantepec, Oax.",7. Educación y esparcimiento,7.1. Educación,1538.968064516129
+45,"Tehuantepec, Oax.",7. Educación y esparcimiento,7.2. Esparcimiento,1067.7585526315788
+45,"Tehuantepec, Oax.",8. Otros servicios,8.1. Otros servicios,2067.960769230769
+46,"Cd. Acuña, Coah.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,126.46172839506173
+46,"Cd. Acuña, Coah.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,216.83107142857145
+46,"Cd. Acuña, Coah.","2. Ropa, calzado y accesorios",2.1. Ropa,278.93451219512195
+46,"Cd. Acuña, Coah.","2. Ropa, calzado y accesorios",2.2. Calzado,447.8932352941177
+46,"Cd. Acuña, Coah.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,703.8888888888889
+46,"Cd. Acuña, Coah.",3. Vivienda,3.1. Costo de uso de vivienda,150.5377777777778
+46,"Cd. Acuña, Coah.",3. Vivienda,3.2. Electricidad y combustibles,8761.706744186047
+46,"Cd. Acuña, Coah.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,943.3533333333334
+46,"Cd. Acuña, Coah.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6308.044482758621
+46,"Cd. Acuña, Coah.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,268.80834951456313
+46,"Cd. Acuña, Coah.",5. Salud y cuidado personal,5.1. Salud,2510.629239130435
+46,"Cd. Acuña, Coah.",5. Salud y cuidado personal,5.2. Cuidado personal,158.64589285714285
+46,"Cd. Acuña, Coah.",6. Transporte,6.1. Transporte público,866.7272727272727
+46,"Cd. Acuña, Coah.",6. Transporte,6.2. Transporte por cuenta propia,71786.393125
+46,"Cd. Acuña, Coah.",7. Educación y esparcimiento,7.1. Educación,3946.5651428571427
+46,"Cd. Acuña, Coah.",7. Educación y esparcimiento,7.2. Esparcimiento,1256.0508108108108
+46,"Cd. Acuña, Coah.",8. Otros servicios,8.1. Otros servicios,4342.468846153846
+47,"Atlacomulco, Edo. de Méx.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,106.46591320072334
+47,"Atlacomulco, Edo. de Méx.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,253.0129268292683
+47,"Atlacomulco, Edo. de Méx.","2. Ropa, calzado y accesorios",2.1. Ropa,290.65183431952664
+47,"Atlacomulco, Edo. de Méx.","2. Ropa, calzado y accesorios",2.2. Calzado,599.3417073170731
+47,"Atlacomulco, Edo. de Méx.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,423.38952380952384
+47,"Atlacomulco, Edo. de Méx.",3. Vivienda,3.1. Costo de uso de vivienda,527.1266666666667
+47,"Atlacomulco, Edo. de Méx.",3. Vivienda,3.2. Electricidad y combustibles,11815.795750000001
+47,"Atlacomulco, Edo. de Méx.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,385.30333333333334
+47,"Atlacomulco, Edo. de Méx.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,4372.633370786517
+47,"Atlacomulco, Edo. de Méx.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,175.17094017094018
+47,"Atlacomulco, Edo. de Méx.",5. Salud y cuidado personal,5.1. Salud,1564.2101075268818
+47,"Atlacomulco, Edo. de Méx.",5. Salud y cuidado personal,5.2. Cuidado personal,178.52985074626866
+47,"Atlacomulco, Edo. de Méx.",6. Transporte,6.1. Transporte público,667.374
+47,"Atlacomulco, Edo. de Méx.",6. Transporte,6.2. Transporte por cuenta propia,50254.958478260865
+47,"Atlacomulco, Edo. de Méx.",7. Educación y esparcimiento,7.1. Educación,1976.081212121212
+47,"Atlacomulco, Edo. de Méx.",7. Educación y esparcimiento,7.2. Esparcimiento,1139.2301333333335
+47,"Atlacomulco, Edo. de Méx.",8. Otros servicios,8.1. Otros servicios,2911.6296296296296
+48,"Cancún, Q. Roo.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,137.04717829457363
+48,"Cancún, Q. Roo.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,308.1483333333333
+48,"Cancún, Q. Roo.","2. Ropa, calzado y accesorios",2.1. Ropa,458.04664804469274
+48,"Cancún, Q. Roo.","2. Ropa, calzado y accesorios",2.2. Calzado,757.3244186046512
+48,"Cancún, Q. Roo.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,495.0444444444444
+48,"Cancún, Q. Roo.",3. Vivienda,3.1. Costo de uso de vivienda,726.5491666666667
+48,"Cancún, Q. Roo.",3. Vivienda,3.2. Electricidad y combustibles,10809.01119047619
+48,"Cancún, Q. Roo.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,614.9977777777777
+48,"Cancún, Q. Roo.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5637.288981481481
+48,"Cancún, Q. Roo.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,406.3861267605634
+48,"Cancún, Q. Roo.",5. Salud y cuidado personal,5.1. Salud,2640.333888888889
+48,"Cancún, Q. Roo.",5. Salud y cuidado personal,5.2. Cuidado personal,222.04260869565218
+48,"Cancún, Q. Roo.",6. Transporte,6.1. Transporte público,1806.0234782608695
+48,"Cancún, Q. Roo.",6. Transporte,6.2. Transporte por cuenta propia,130802.61838709677
+48,"Cancún, Q. Roo.",7. Educación y esparcimiento,7.1. Educación,3209.0399999999995
+48,"Cancún, Q. Roo.",7. Educación y esparcimiento,7.2. Esparcimiento,1990.6626213592233
+48,"Cancún, Q. Roo.",8. Otros servicios,8.1. Otros servicios,1827.5060465116278
+49,"Coatzacoalcos, Ver.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,122.49079877112135
+49,"Coatzacoalcos, Ver.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,301.50702702702705
+49,"Coatzacoalcos, Ver.","2. Ropa, calzado y accesorios",2.1. Ropa,425.38971659919025
+49,"Coatzacoalcos, Ver.","2. Ropa, calzado y accesorios",2.2. Calzado,564.984358974359
+49,"Coatzacoalcos, Ver.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1467.1794736842105
+49,"Coatzacoalcos, Ver.",3. Vivienda,3.1. Costo de uso de vivienda,190.41000000000003
+49,"Coatzacoalcos, Ver.",3. Vivienda,3.2. Electricidad y combustibles,10808.897142857142
+49,"Coatzacoalcos, Ver.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,529.0323529411764
+49,"Coatzacoalcos, Ver.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6002.352314049587
+49,"Coatzacoalcos, Ver.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,339.6283687943262
+49,"Coatzacoalcos, Ver.",5. Salud y cuidado personal,5.1. Salud,1631.7375555555557
+49,"Coatzacoalcos, Ver.",5. Salud y cuidado personal,5.2. Cuidado personal,202.20505747126438
+49,"Coatzacoalcos, Ver.",6. Transporte,6.1. Transporte público,912.8863636363636
+49,"Coatzacoalcos, Ver.",6. Transporte,6.2. Transporte por cuenta propia,108100.82111111112
+49,"Coatzacoalcos, Ver.",7. Educación y esparcimiento,7.1. Educación,2921.745081967213
+49,"Coatzacoalcos, Ver.",7. Educación y esparcimiento,7.2. Esparcimiento,1485.3094392523367
+49,"Coatzacoalcos, Ver.",8. Otros servicios,8.1. Otros servicios,1632.331489361702
+50,"Esperanza, Son.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,116.49875169606513
+50,"Esperanza, Son.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,362.87857142857143
+50,"Esperanza, Son.","2. Ropa, calzado y accesorios",2.1. Ropa,290.30905
+50,"Esperanza, Son.","2. Ropa, calzado y accesorios",2.2. Calzado,642.23375
+50,"Esperanza, Son.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,265.94958333333335
+50,"Esperanza, Son.",3. Vivienda,3.1. Costo de uso de vivienda,204.37461538461537
+50,"Esperanza, Son.",3. Vivienda,3.2. Electricidad y combustibles,9153.242142857143
+50,"Esperanza, Son.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,539.2091304347825
+50,"Esperanza, Son.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5501.835982905984
+50,"Esperanza, Son.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,254.76291666666668
+50,"Esperanza, Son.",5. Salud y cuidado personal,5.1. Salud,1352.008717948718
+50,"Esperanza, Son.",5. Salud y cuidado personal,5.2. Cuidado personal,380.39974683544307
+50,"Esperanza, Son.",6. Transporte,6.1. Transporte público,825.8312500000001
+50,"Esperanza, Son.",6. Transporte,6.2. Transporte por cuenta propia,84351.8564
+50,"Esperanza, Son.",7. Educación y esparcimiento,7.1. Educación,2992.904677419355
+50,"Esperanza, Son.",7. Educación y esparcimiento,7.2. Esparcimiento,1832.4786554621849
+50,"Esperanza, Son.",8. Otros servicios,8.1. Otros servicios,2534.0691304347824
+51,"Izúcar de Matamoros, Pue.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,110.49168905950096
+51,"Izúcar de Matamoros, Pue.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,257.3009375
+51,"Izúcar de Matamoros, Pue.","2. Ropa, calzado y accesorios",2.1. Ropa,228.46547445255476
+51,"Izúcar de Matamoros, Pue.","2. Ropa, calzado y accesorios",2.2. Calzado,461.45
+51,"Izúcar de Matamoros, Pue.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,226.75823529411764
+51,"Izúcar de Matamoros, Pue.",3. Vivienda,3.1. Costo de uso de vivienda,274.995
+51,"Izúcar de Matamoros, Pue.",3. Vivienda,3.2. Electricidad y combustibles,11253.812142857143
+51,"Izúcar de Matamoros, Pue.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,180.386
+51,"Izúcar de Matamoros, Pue.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,4176.073186813186
+51,"Izúcar de Matamoros, Pue.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,278.4441121495327
+51,"Izúcar de Matamoros, Pue.",5. Salud y cuidado personal,5.1. Salud,694.059255319149
+51,"Izúcar de Matamoros, Pue.",5. Salud y cuidado personal,5.2. Cuidado personal,141.4396875
+51,"Izúcar de Matamoros, Pue.",6. Transporte,6.1. Transporte público,622.225
+51,"Izúcar de Matamoros, Pue.",6. Transporte,6.2. Transporte por cuenta propia,54131.40333333333
+51,"Izúcar de Matamoros, Pue.",7. Educación y esparcimiento,7.1. Educación,1969.7332653061223
+51,"Izúcar de Matamoros, Pue.",7. Educación y esparcimiento,7.2. Esparcimiento,963.2881927710844
+51,"Izúcar de Matamoros, Pue.",8. Otros servicios,8.1. Otros servicios,1615.7600000000002
+52,"Pachuca, Hgo.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,106.78706398996235
+52,"Pachuca, Hgo.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,253.50757575757575
+52,"Pachuca, Hgo.","2. Ropa, calzado y accesorios",2.1. Ropa,456.2968062827225
+52,"Pachuca, Hgo.","2. Ropa, calzado y accesorios",2.2. Calzado,562.5870967741936
+52,"Pachuca, Hgo.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1636.9288888888889
+52,"Pachuca, Hgo.",3. Vivienda,3.1. Costo de uso de vivienda,177.6291666666667
+52,"Pachuca, Hgo.",3. Vivienda,3.2. Electricidad y combustibles,11253.855952380953
+52,"Pachuca, Hgo.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,214.94714285714286
+52,"Pachuca, Hgo.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6525.034424778762
+52,"Pachuca, Hgo.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,456.3453459119497
+52,"Pachuca, Hgo.",5. Salud y cuidado personal,5.1. Salud,1273.032327586207
+52,"Pachuca, Hgo.",5. Salud y cuidado personal,5.2. Cuidado personal,152.39433734939757
+52,"Pachuca, Hgo.",6. Transporte,6.1. Transporte público,623.734347826087
+52,"Pachuca, Hgo.",6. Transporte,6.2. Transporte por cuenta propia,77829.31620689655
+52,"Pachuca, Hgo.",7. Educación y esparcimiento,7.1. Educación,4218.909344262295
+52,"Pachuca, Hgo.",7. Educación y esparcimiento,7.2. Esparcimiento,1611.6992
+52,"Pachuca, Hgo.",8. Otros servicios,8.1. Otros servicios,786.1737777777778
+53,"Saltillo, Coah.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,125.0847430249633
+53,"Saltillo, Coah.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,296.7240425531915
+53,"Saltillo, Coah.","2. Ropa, calzado y accesorios",2.1. Ropa,477.34627906976743
+53,"Saltillo, Coah.","2. Ropa, calzado y accesorios",2.2. Calzado,577.8847058823529
+53,"Saltillo, Coah.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,606.8086956521739
+53,"Saltillo, Coah.",3. Vivienda,3.1. Costo de uso de vivienda,529.0933333333334
+53,"Saltillo, Coah.",3. Vivienda,3.2. Electricidad y combustibles,10590.154772727272
+53,"Saltillo, Coah.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,700.535294117647
+53,"Saltillo, Coah.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,6920.137107438016
+53,"Saltillo, Coah.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,350.7674825174825
+53,"Saltillo, Coah.",5. Salud y cuidado personal,5.1. Salud,2032.6174590163932
+53,"Saltillo, Coah.",5. Salud y cuidado personal,5.2. Cuidado personal,263.177375
+53,"Saltillo, Coah.",6. Transporte,6.1. Transporte público,878.1160869565217
+53,"Saltillo, Coah.",6. Transporte,6.2. Transporte por cuenta propia,142341.8383870968
+53,"Saltillo, Coah.",7. Educación y esparcimiento,7.1. Educación,3666.399672131148
+53,"Saltillo, Coah.",7. Educación y esparcimiento,7.2. Esparcimiento,2136.4331666666667
+53,"Saltillo, Coah.",8. Otros servicios,8.1. Otros servicios,3354.139777777778
+54,"Tuxtla Gutiérrez, Chis.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,110.91282258064516
+54,"Tuxtla Gutiérrez, Chis.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,249.7335
+54,"Tuxtla Gutiérrez, Chis.","2. Ropa, calzado y accesorios",2.1. Ropa,358.3645226130653
+54,"Tuxtla Gutiérrez, Chis.","2. Ropa, calzado y accesorios",2.2. Calzado,650.85175
+54,"Tuxtla Gutiérrez, Chis.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1182.6756756756756
+54,"Tuxtla Gutiérrez, Chis.",3. Vivienda,3.1. Costo de uso de vivienda,415.80833333333334
+54,"Tuxtla Gutiérrez, Chis.",3. Vivienda,3.2. Electricidad y combustibles,10647.848863636364
+54,"Tuxtla Gutiérrez, Chis.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,739.765
+54,"Tuxtla Gutiérrez, Chis.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5235.61045045045
+54,"Tuxtla Gutiérrez, Chis.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,330.28755555555557
+54,"Tuxtla Gutiérrez, Chis.",5. Salud y cuidado personal,5.1. Salud,1741.2733898305084
+54,"Tuxtla Gutiérrez, Chis.",5. Salud y cuidado personal,5.2. Cuidado personal,184.9048051948052
+54,"Tuxtla Gutiérrez, Chis.",6. Transporte,6.1. Transporte público,984.9484
+54,"Tuxtla Gutiérrez, Chis.",6. Transporte,6.2. Transporte por cuenta propia,114743.19121621622
+54,"Tuxtla Gutiérrez, Chis.",7. Educación y esparcimiento,7.1. Educación,2043.4804761904763
+54,"Tuxtla Gutiérrez, Chis.",7. Educación y esparcimiento,7.2. Esparcimiento,1708.7558333333334
+54,"Tuxtla Gutiérrez, Chis.",8. Otros servicios,8.1. Otros servicios,1200.4226530612245
+55,"Zacatecas, Zac.","1. Alimentos, bebidas y tabaco",1.1. Alimentos,112.77981504315659
+55,"Zacatecas, Zac.","1. Alimentos, bebidas y tabaco",1.2. Bebidas alcohólicas y tabaco,302.09410256410257
+55,"Zacatecas, Zac.","2. Ropa, calzado y accesorios",2.1. Ropa,417.59050420168063
+55,"Zacatecas, Zac.","2. Ropa, calzado y accesorios",2.2. Calzado,715.7071428571429
+55,"Zacatecas, Zac.","2. Ropa, calzado y accesorios",2.3. Accesorios y cuidados del vestido,1713.2846296296295
+55,"Zacatecas, Zac.",3. Vivienda,3.1. Costo de uso de vivienda,552.5283333333333
+55,"Zacatecas, Zac.",3. Vivienda,3.2. Electricidad y combustibles,11253.90738095238
+55,"Zacatecas, Zac.",3. Vivienda,3.3. Otros servicios relacionados con la vivienda,369.8164
+55,"Zacatecas, Zac.","4. Muebles, aparatos y accesorios domésticos",4.1. Muebles y aparatos domésticos,5730.4884375
+55,"Zacatecas, Zac.","4. Muebles, aparatos y accesorios domésticos",4.2. Accesorios y artículos de limpieza para el hogar,503.6440555555555
+55,"Zacatecas, Zac.",5. Salud y cuidado personal,5.1. Salud,1654.170347826087
+55,"Zacatecas, Zac.",5. Salud y cuidado personal,5.2. Cuidado personal,240.99563218390807
+55,"Zacatecas, Zac.",6. Transporte,6.1. Transporte público,834.96
+55,"Zacatecas, Zac.",6. Transporte,6.2. Transporte por cuenta propia,56196.48345864662
+55,"Zacatecas, Zac.",7. Educación y esparcimiento,7.1. Educación,2339.251764705882
+55,"Zacatecas, Zac.",7. Educación y esparcimiento,7.2. Esparcimiento,1796.6450326797385
+55,"Zacatecas, Zac.",8. Otros servicios,8.1. Otros servicios,1951.052888888889
