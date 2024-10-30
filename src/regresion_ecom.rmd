@@ -1,0 +1,220 @@
+---
+title: 'DATATON: Regresión e-commerce'
+author: "Equipo 23. Guillermo Arredondo"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+include: \underset
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=F, comment=NA, warning=F, message=F, fig.pos = "H", fig.align = "center", out.width = "75%")
+#tinytex::install_tinytex(force = TRUE)
+
+library(tidyverse)
+library(kableExtra)
+library(dplyr)
+library(MASS)
+library(stargazer)
+library(estimatr)
+library(broom)
+
+data <- read.csv("../data/tr_endutih_usuarios_anual_2023.csv", header = T)
+```
+
+```{r Manipulacion de datos}
+data$P7_21 <- ifelse(data$P7_21 == 2, 0, 1)
+knitr::kable(table(data$P7_21, exclude = NULL), col.names = c("Compra via electronica", "Freq"))
+data <- data %>% filter(!is.na(P7_21)) 
+```
+
+```{r EDA}
+summary(data$EDAD)
+ggplot(data)+aes(EDAD)+geom_histogram()
+```
+
+
+```{r Rgression variables}
+estados = c("Aguascalientes","Baja California","Baja California Sur","Campeche","Chiapas","Chihuahua","Coahuila de Zaragoza","Colima","Ciudad de México","Durango","Guanajuato","Guerrero","Hidalgo","Jalisco","México","Michoacán de Ocampo","Morelos","Nayarit","Nuevo León","Oaxaca","Puebla","Querétaro","Quintana Roo","San Luis Potosí","Sinaloa","Sonora","Tabasco","Tamaulipas","Tlaxcala","Veracruz de Ignacio de la Llave","Yucatán","Zacatecas")
+
+# Filtrar datos a las respuestas de la encuesta que nos interesan 
+reg_data <- data %>% dplyr::select(
+  (starts_with(
+    c( "P7_21", "EDAD", "DOMINIO", "TLOC", "ESTRATO", "SEXO", "NIVEL", "ENT", "P6_1", 
+       "P6_4", "P6_7_", "P6_8_", "P6_9_", "P7_3"
+      )
+    ) 
+  & !matches("P7_3[0-9]"))
+  | (starts_with(
+    c("P7_7", "P7_15", "P7_16_", "P7_18_", "P7_19",
+      "P7_25_", "P7_26", "P7_27_", "P7_28", "P7_29", "P7_30", "P7_31_", "P7_32_", 
+      "P7_33", "P7_34_"
+      )
+    )
+  & !matches("P7_29A")
+    )
+  )
+```
+
+
+```{r Regression: DUMMIES}
+# Dummy MUJER
+# Hombre = 1, Mujer = 2 -> Hombre = 0, Mujer = 1
+reg_data$SEXO <- reg_data$SEXO - 1
+colnames(reg_data)[which(names(reg_data) == "SEXO")] <- "FEMALE"
+
+# Dummy RURAL
+reg_data$DOMINIO <- ifelse(reg_data$DOMINIO == "U", 0, 1)
+colnames(reg_data)[which(names(reg_data) == "DOMINIO")] <- "RURAL"
+
+
+vars_to_exclude <- c("P7_21", "EDAD", "RURAL", "TLOC", "ESTRATO", "FEMALE", "NIVEL", "ENT",
+                     "P6_4", "P7_3", "P7_7", "P7_29", "P7_30")
+si_no_vars <- setdiff(names(reg_data), vars_to_exclude)
+# Cambiamos valor No = 2 a 0 
+for (variable in si_no_vars){
+  reg_data[[variable]] <- ifelse(reg_data[[variable]] == 2, 0, 1)
+}
+
+# Creamos Dummy "no uso redes sociales" para la pregunta 16
+reg_data$P7_16_0 <- ifelse(reg_data$P7_15 == 0, 1, 0) 
+reg_data <- reg_data %>% dplyr::select(-c("P7_15"))
+
+vars16 <- c("P7_16_1","P7_16_2","P7_16_3","P7_16_4","P7_16_5","P7_16_6",
+            "P7_16_7","P7_16_8","P7_16_9", "P7_16_10", "P7_16_11")
+reg_data <- reg_data %>%
+  mutate(across(all_of(vars16), ~replace_na(., 0)))
+
+# Variables categoricas
+cat_vars <- c("TLOC", "ESTRATO", "NIVEL", "ENT", "P6_4", "P7_3", "P7_7", "P7_29", "P7_30")
+for (variable in cat_vars){
+  reg_data[[variable]] <- factor(reg_data[[variable]])
+}
+
+reg_data <- reg_data %>% dplyr::select(- c("P7_30", "P7_18_8", "P7_29"))
+```
+
+```{r Drop sparse}
+# Quitar variables que tienen un número elevado de NA's (preguntas que no se responden según otra respuesta)
+drop_sparse_columns <- function(data, min_obs = 25000) {
+  # Calcular número de NA's
+  non_na_counts <- colSums(!is.na(data))
+  
+  # Identificar columnas que tienen más NA's que el mínimo designado
+  cols_to_keep <- names(non_na_counts[non_na_counts >= min_obs])
+  
+  # Reducir el data.frame
+  data_cleaned <- data[, cols_to_keep, drop = FALSE]
+  
+  # Imprimir información de las variables eliminadas
+  n_dropped <- ncol(data) - length(cols_to_keep)
+  if (n_dropped > 0) {
+    dropped_cols <- setdiff(names(data), cols_to_keep)
+    cat("Dropped", n_dropped, "columns with fewer than", min_obs, "observations:\n")
+    cat(paste(dropped_cols, collapse = ", "), "\n")
+  } else {
+    cat("No columns were dropped.\n")
+  }
+  
+  return(data_cleaned)
+}
+
+# Asignamos datos al resultado de la función
+reg_data_clean <- reg_data %>% drop_sparse_columns()
+
+```
+
+## Realización de modelos para interpretación de influencia en comprar en línea
+
+### Verificación de variables que incluir
+
+#### Entidad
+```{r}
+ggplot(reg_data_clean, aes(x = factor(ENT), y = P7_21)) +
+  stat_summary(fun = mean, geom = "point", color = "#f2545b", size = 2) +
+  stat_summary(fun.data = mean_cl_boot, geom = "errorbar", width = 0.2, color = "#f2545b") +
+  ggtitle("Diferencia de compras en línea por entidad", 
+          subtitle = "Con I.C. del 95%") +
+  theme_dark() +
+  theme(
+    plot.title = element_text(hjust = 0.5, size = 10.5, face = "bold", color = "white"),
+    plot.subtitle = element_text(hjust = 0.5, size = 8.5, color = "white"),
+    
+    axis.title = element_text(color = "white"),
+    axis.text = element_text(color = "white"),
+    axis.title.x = element_text(margin = margin(t = 20)),
+    axis.title.y = element_text(margin = margin(r = 20)),
+    
+    plot.background = element_rect(fill = "black"),
+    panel.background = element_rect(fill = "black"),
+    
+    panel.grid.major = element_line(color = "gray30"),
+    panel.grid.minor = element_line(color = "gray20")
+  ) +
+  labs(x = "Entidad", y = "Porcentaje de compra en línea")
+```
+#### NIVEL educativo
+```{r}
+ggplot(reg_data_clean, aes(x = NIVEL, y = P7_21)) +
+  stat_summary(fun = mean, geom = "point") +
+  stat_summary(fun.data = mean_cl_boot, geom = "errorbar", width = 0.2) +
+  ggtitle("Diferencia de compras en línea por nivel educativo", subtitle = "Con I.C. del 95%")+
+  theme(plot.title = element_text(hjust = 0.5, size=10.5, face = "bold"),
+        plot.subtitle = element_text(hjust = 0.5, size=8.5),
+        legend.position = "bottom",
+        axis.title.y = element_blank(), legend.title = element_text(size = 9.5),
+        legend.text = element_text(size = 8.5))+
+  labs(x = "NIVEL", y = "Porcentaje de compra en línea")
+```
+
+### Modelos de regresión líneal 
+
+#### Entidad
+```{r Regresion entidades}
+modelo_ent <- lm(P7_21 ~ ENT , data = reg_data_clean)
+summary(modelo_ent)
+```
+
+#### Variables de interés restantes
+
+```{r Regresión sin entidades}
+reg_desc <- reg_data_clean %>% dplyr::select(-c("ENT", "NIVEL"))
+modelo_desc <- lm(P7_21 ~. , data = reg_desc)
+summary(modelo_desc)
+```
+
+### Modelos logit
+Considerando que la variable es dicotómica, es preferible realizar un modelo LOGIT que permita obtener información sobre la "probabilidad" de compra en línea 
+
+#### Entidad
+```{r LOGIT entidades}
+log_ent <- glm(P7_21 ~ ENT, 
+                 data = reg_data_clean, 
+                 family = binomial(link = "logit"))
+summary(log_ent)
+```
+
+#### Variables descriptivas
+```{r LOGIT sin entidades}
+log_desc <- glm(P7_21 ~ ., 
+                  data = reg_desc, 
+                  family = binomial(link = "logit"))
+summary(log_desc)
+```
+#### Modelo extra de curiosidad por búsquedas en internet
+```{r Busquedas internet}
+
+reg_extra <- reg_desc
+new_cols <- data %>% dplyr::select(starts_with("P7_10") & !ends_with(c("A", "10")))
+neg_val <- function(x, na.rm = FALSE) ifelse(x == 2, 0, 1)
+new_cols <- new_cols %>% 
+  mutate_all(neg_val)
+
+reg_extra <- cbind(reg_extra, new_cols)
+
+log_extra <- glm(P7_21 ~., 
+                  data = reg_extra, 
+                  family = binomial(link = "logit"))
+summary(log_extra)
+
+```
